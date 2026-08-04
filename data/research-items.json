@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Deep Learning Based on Swin-Transformer and 3D U-Net: Implant Three-Dimensional Position Planning",
+    "source_type": "peer-reviewed journal article",
+    "authors": "Shen et al.",
+    "venue": "International Dental Journal",
+    "date": "2026-08 issue; ePub 2026-06-25",
+    "pmid": "42348991",
+    "doi": "10.1016/j.identj.2026.109690",
+    "relation_to_project": "Directly relevant to posterior mandibular implant planning with mandibular nerve canal segmentation.",
+    "limitations": "Retrospective internal validation; no external center or reader-study endpoint."
+  },
+  {
+    "title": "Multi-structure segmentation in CBCT volumes: The ToothFairy2 challenge",
+    "source_type": "peer-reviewed journal article and benchmark repository",
+    "authors": "Bolelli et al.",
+    "venue": "Medical Image Analysis",
+    "date": "2026-07",
+    "pmid": "42102640",
+    "doi": "10.1016/j.media.2026.104095",
+    "repository": "https://github.com/AImageLab-zip/ToothFairy2-Benchmark",
+    "relation_to_project": "Benchmark data for external testing of maxillofacial CBCT segmentation, including inferior alveolar canals.",
+    "limitations": "Benchmark evidence, not clinical workflow validation."
+  },
+  {
+    "title": "TAPSeg: An open-source deep learning tool for instance-level tooth and pulp segmentation in CBCT",
+    "source_type": "peer-reviewed journal article",
+    "authors": "Zhang et al.",
+    "venue": "Journal of Dentistry",
+    "date": "2026-08",
+    "pmid": "41865812",
+    "doi": "10.1016/j.jdent.2026.106643",
+    "relation_to_project": "Useful design precedent for 3D Slicer integration and external testing.",
+    "limitations": "Not mandibular canal; public code availability should be verified before reuse."
+  }
+]

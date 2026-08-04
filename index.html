@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>CBCT AI Research Radar</title>
+    <meta
+      name="description"
+      content="A compact research radar for AI-assisted dental CBCT interpretation, mandibular canal segmentation, and implant planning workflow validation."
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="app-header">
+      <div class="header-copy">
+        <p class="eyebrow">Dental radiology AI</p>
+        <h1>CBCT AI Research Radar</h1>
+        <p class="lead">
+          A focused tracker for AI-assisted CBCT interpretation, inferior alveolar nerve canal segmentation,
+          implant planning, external validation, and clinical workflow integration.
+        </p>
+        <div class="header-actions" aria-label="Primary actions">
+          <a class="button primary" href="#radar">Explore radar</a>
+          <a class="button secondary" href="#protocol">Reader-study kit</a>
+        </div>
+      </div>
+      <div class="hero-visual" aria-label="AI-assisted CBCT mandibular canal visualization">
+        <img src="assets/cbct-ai-hero.png" alt="3D CBCT mandible with highlighted mandibular canal and implant planning guides" />
+      </div>
+    </header>
+
+    <main>
+      <section class="metric-strip" aria-label="Project scope">
+        <div>
+          <span class="metric">5</span>
+          <span class="label">priority papers</span>
+        </div>
+        <div>
+          <span class="metric">6</span>
+          <span class="label">tools and datasets</span>
+        </div>
+        <div>
+          <span class="metric">9</span>
+          <span class="label">validation endpoints</span>
+        </div>
+        <div>
+          <span class="metric">3</span>
+          <span class="label">workflow actions</span>
+        </div>
+      </section>
+
+      <section class="control-band" id="radar">
+        <div>
+          <p class="eyebrow">Research radar</p>
+          <h2>Filter what matters for a CBCT AI PhD project</h2>
+        </div>
+        <div class="controls" aria-label="Radar filters">
+          <label>
+            Focus
+            <select id="focusFilter">
+              <option value="all">All focus areas</option>
+              <option value="ianc">IANC / mandibular canal</option>
+              <option value="implant">Implant planning</option>
+              <option value="workflow">Workflow / reader study</option>
+              <option value="tool">Tool or dataset</option>
+              <option value="transfer">Transferable method</option>
+            </select>
+          </label>
+          <label>
+            Evidence
+            <select id="evidenceFilter">
+              <option value="all">All levels</option>
+              <option value="external">External or multi-center</option>
+              <option value="internal">Internal validation</option>
+              <option value="pilot">Pilot / proof of concept</option>
+              <option value="resource">Resource</option>
+            </select>
+          </label>
+          <label class="search-label">
+            Search
+            <input id="searchInput" type="search" placeholder="nnU-Net, Dice, safety margin..." />
+          </label>
+        </div>
+      </section>
+
+      <section class="radar-grid" id="itemGrid" aria-live="polite"></section>
+
+      <section class="two-column">
+        <div class="panel" id="tools">
+          <div class="section-heading">
+            <p class="eyebrow">Reusable assets</p>
+            <h2>Code and data to try first</h2>
+          </div>
+          <ul class="tool-list" id="toolList"></ul>
+        </div>
+
+        <div class="panel" id="protocol">
+          <div class="section-heading">
+            <p class="eyebrow">Clinical validation</p>
+            <h2>Reader-study endpoints</h2>
+          </div>
+          <div class="checklist" id="endpointList"></div>
+        </div>
+      </section>
+
+      <section class="workflow-band">
+        <div class="section-heading">
+          <p class="eyebrow">Project workflow</p>
+          <h2>Minimal path from literature radar to GitHub-ready prototype</h2>
+        </div>
+        <ol class="workflow-list">
+          <li>
+            <strong>Baseline segmentation</strong>
+            <span>Run DentalSegmentator or nnU-Net on local CBCT cases and export mandibular canal masks.</span>
+          </li>
+          <li>
+            <strong>Error analysis</strong>
+            <span>Report centerline distance, HD95, safety-margin violations, and artifact-driven failures.</span>
+          </li>
+          <li>
+            <strong>Reader study</strong>
+            <span>Compare unaided planning versus AI-assisted planning on time, confidence, and plan edits.</span>
+          </li>
+        </ol>
+      </section>
+
+      <section class="export-panel">
+        <div>
+          <p class="eyebrow">Markdown export</p>
+          <h2>Copy a compact brief for lab notes or GitHub issues</h2>
+        </div>
+        <button class="button primary" id="copyBrief">Copy brief</button>
+        <textarea id="briefOutput" readonly rows="9" aria-label="Generated Markdown brief"></textarea>
+      </section>
+    </main>
+
+    <footer>
+      <span>Built for research planning, not clinical diagnosis.</span>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/?term=CBCT+mandibular+canal+AI+segmentation" rel="noreferrer">PubMed query</a>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>
