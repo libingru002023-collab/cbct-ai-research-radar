@@ -1,5 +1,159 @@
 [
   {
+    "title": "Three-Dimensional Radiographic and Morphological Features of Ameloblastoma and Odontogenic Keratocyst: A Comparative Cone Beam Computed Tomography Study Using Automatic Segmentation.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Li L, Huang S, Zhang X, et al.",
+    "source": "International dental journal",
+    "date": "2026-06-23",
+    "focus": [
+      "workflow"
+    ],
+    "evidence": "internal",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "We aimed to compare the three-dimensional (3D) radiographic and morphological features, and explore their associations in ameloblastoma (AM) and odontogenic keratocyst (OKC) on CBCT scans, to facilitate clinicians in the preoperative differential diagnosis between the two lesions.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42335754",
+    "doi": "10.1016/j.identj.2026.109700",
+    "links": [
+      [
+        "PMID 42335754",
+        "https://pubmed.ncbi.nlm.nih.gov/42335754/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1016/j.identj.2026.109700"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-08-04T23:19:36Z",
+    "screening_score": 16
+  },
+  {
+    "title": "Clinical integration of artificial intelligence and mixed reality-based dynamic navigation for implant placement in the anterior maxilla.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Feraru M, Shusterman A, Mangano C, et al.",
+    "source": "Journal of dentistry",
+    "date": "2026-02-14",
+    "focus": [
+      "implant",
+      "tool",
+      "workflow"
+    ],
+    "evidence": "pilot",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "To report the first clinical application of an integrated workflow combining artificial intelligence (AI) with mixed reality-based dynamic navigation (MR-DN) for guided dental implant placement in the anterior maxilla.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "41698525",
+    "doi": "10.1016/j.jdent.2026.106579",
+    "links": [
+      [
+        "PMID 41698525",
+        "https://pubmed.ncbi.nlm.nih.gov/41698525/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1016/j.jdent.2026.106579"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-08-04T23:19:36Z",
+    "screening_score": 15
+  },
+  {
+    "title": "Artificial intelligence for detection of root canal fillings and evaluation of obturation quality on dental radiographs: A systematic review.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Guimarães HHDSD, Matos KN",
+    "source": "Journal of dentistry",
+    "date": "2026-05-04",
+    "focus": [
+      "workflow"
+    ],
+    "evidence": "external",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "To systematically evaluate evidence on artificial intelligence (AI) for root canal filling (RCF) detection and radiographic assessment of obturation quality.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42092623",
+    "doi": "10.1016/j.jdent.2026.106736",
+    "links": [
+      [
+        "PMID 42092623",
+        "https://pubmed.ncbi.nlm.nih.gov/42092623/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1016/j.jdent.2026.106736"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-08-04T23:19:36Z",
+    "screening_score": 12
+  },
+  {
+    "title": "Accuracy of Artificial Intelligence based chatbots in reporting jaw lesions from multimodal radiographic images: A cross-sectional study.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Elkersh NM, Atteya AM, Shararah AA",
+    "source": "Dento maxillo facial radiology",
+    "date": "2026-08-04",
+    "focus": [
+      "tool",
+      "workflow"
+    ],
+    "evidence": "pilot",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "The current study aimed to quantify the diagnostic accuracy of commonly utilized chatbots including Gemini, Copilot, Claude, and specialized architectures like Manus in the detection and differential diagnosis of various jaw lesions, while concurrently evaluating the clinical safety and fidelity of the information they",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42550178",
+    "doi": "10.1093/dmfr/twag057",
+    "links": [
+      [
+        "PMID 42550178",
+        "https://pubmed.ncbi.nlm.nih.gov/42550178/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1093/dmfr/twag057"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-08-04T23:19:36Z",
+    "screening_score": 10
+  },
+  {
+    "title": "An Alternative Digital Workflow for 3D Virtual Patient Construction Integrating Intraoral, Facial, and CBCT Data for Esthetic and Occlusal Planning.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Valenzuela MV, Marroquín-Soto C, Padilla-Avalos CA",
+    "source": "Journal of esthetic and restorative dentistry : official publication of the American Academy of Esthetic Dentistry ... [et al.]",
+    "date": "2026-04-05",
+    "focus": [
+      "tool",
+      "workflow"
+    ],
+    "evidence": "resource",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Virtual patient construction integrates dental, facial, and skeletal datasets into a unified 3D model for prosthodontic diagnosis and planning.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "41937439",
+    "doi": "10.1111/jerd.70154",
+    "links": [
+      [
+        "PMID 41937439",
+        "https://pubmed.ncbi.nlm.nih.gov/41937439/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1111/jerd.70154"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-08-04T23:19:36Z",
+    "screening_score": 10
+  },
+  {
     "title": "Deep learning-based automated assessment of pulmonary artery indices and surgical approach triage for tetralogy of Fallot from multicenter cardiac computed tomography (CT).",
     "source_type": "automatically imported PubMed record",
     "authors": "Yao X, Zhou Q, Guo C, et al.",
