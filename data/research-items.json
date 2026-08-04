@@ -1,36 +1,230 @@
 [
   {
-    "title": "Deep Learning Based on Swin-Transformer and 3D U-Net: Implant Three-Dimensional Position Planning",
-    "source_type": "peer-reviewed journal article",
-    "authors": "Shen et al.",
-    "venue": "International Dental Journal",
-    "date": "2026-08 issue; ePub 2026-06-25",
-    "pmid": "42348991",
-    "doi": "10.1016/j.identj.2026.109690",
-    "relation_to_project": "Directly relevant to posterior mandibular implant planning with mandibular nerve canal segmentation.",
-    "limitations": "Retrospective internal validation; no external center or reader-study endpoint."
+    "title": "Deep learning-based automated assessment of pulmonary artery indices and surgical approach triage for tetralogy of Fallot from multicenter cardiac computed tomography (CT).",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Yao X, Zhou Q, Guo C, et al.",
+    "source": "Clinical radiology",
+    "date": "2026-06-02",
+    "focus": [
+      "tool",
+      "transfer"
+    ],
+    "evidence": "external",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "To develop an automated framework for deep learning (DL)-based segmentation, pulmonary artery indices (PAIs) computation, and rule-based surgical triage from cardiac CT (CCT) in pediatric Tetralogy of Fallot (TOF).",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'transfer_tubular_structures'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42349352",
+    "doi": "10.1016/j.crad.2026.107404",
+    "links": [
+      [
+        "PMID 42349352",
+        "https://pubmed.ncbi.nlm.nih.gov/42349352/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1016/j.crad.2026.107404"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-08-04T07:50:05Z",
+    "screening_score": 14
   },
   {
-    "title": "Multi-structure segmentation in CBCT volumes: The ToothFairy2 challenge",
+    "title": "Transcrestal Sinus Floor Elevation Using Dental Implant Robot and Osseodensification Drills: A Preliminary Case Series.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Chen N, Deng N, He T, et al.",
+    "source": "Clinical implant dentistry and related research",
+    "date": "2026 Aug",
+    "focus": [
+      "implant",
+      "workflow"
+    ],
+    "evidence": "pilot",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "This study aims to evaluate the application of an autonomous dental implant robot combined with osseodensification drills for transcrestal maxillary sinus floor elevation (ADIR-OD-TSFE) and simultaneous implant placement.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42397123",
+    "doi": "10.1111/cid.70167",
+    "links": [
+      [
+        "PMID 42397123",
+        "https://pubmed.ncbi.nlm.nih.gov/42397123/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1111/cid.70167"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-08-04T07:50:03Z",
+    "screening_score": 14
+  },
+  {
+    "title": "AI-assisted 3D implant position planning",
+    "source_type": "peer-reviewed journal article",
+    "authors": "Shen et al.",
+    "source": "International Dental Journal",
+    "date": "2026-08 issue; ePub 2026-06-25",
+    "focus": [
+      "implant",
+      "ianc"
+    ],
+    "evidence": "internal",
+    "relevance": "Directly relevant to posterior mandibular implant planning with mandibular nerve canal segmentation.",
+    "method": "3D U-Net plus Swin-Transformer for teeth, mandible, nerve canal segmentation, lingual concavity classification, and implant key-point prediction.",
+    "metrics": "Dental DSC 0.87-0.91; lingual concavity accuracy 0.92-0.97; safety margin from canal 3.20-3.89 mm.",
+    "limitation": "Retrospective internal validation; no external center or reader-study endpoint.",
+    "pmid": "42348991",
+    "doi": "10.1016/j.identj.2026.109690",
+    "links": [
+      [
+        "PMID 42348991",
+        "https://pubmed.ncbi.nlm.nih.gov/42348991/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1016/j.identj.2026.109690"
+      ]
+    ]
+  },
+  {
+    "title": "ToothFairy2 multi-structure CBCT benchmark",
     "source_type": "peer-reviewed journal article and benchmark repository",
     "authors": "Bolelli et al.",
-    "venue": "Medical Image Analysis",
+    "source": "Medical Image Analysis",
     "date": "2026-07",
+    "focus": [
+      "tool",
+      "ianc"
+    ],
+    "evidence": "resource",
+    "relevance": "Public benchmark with inferior alveolar canals, teeth, mandible, implants, and 42 maxillofacial classes.",
+    "method": "530 CBCT volumes, standardized challenge protocol, baseline models, and evaluation code.",
+    "metrics": "Highlights that fine structures, restorations, and metal artifacts remain difficult despite strong performance on large structures.",
+    "limitation": "Benchmark evidence, not clinical workflow validation.",
     "pmid": "42102640",
     "doi": "10.1016/j.media.2026.104095",
     "repository": "https://github.com/AImageLab-zip/ToothFairy2-Benchmark",
-    "relation_to_project": "Benchmark data for external testing of maxillofacial CBCT segmentation, including inferior alveolar canals.",
-    "limitations": "Benchmark evidence, not clinical workflow validation."
+    "links": [
+      [
+        "PMID 42102640",
+        "https://pubmed.ncbi.nlm.nih.gov/42102640/"
+      ],
+      [
+        "Benchmark",
+        "https://github.com/AImageLab-zip/ToothFairy2-Benchmark"
+      ]
+    ]
   },
   {
-    "title": "TAPSeg: An open-source deep learning tool for instance-level tooth and pulp segmentation in CBCT",
+    "title": "nnU-Net detection of middle mesial canals",
+    "source_type": "peer-reviewed journal article",
+    "authors": "Turp et al.",
+    "source": "Journal of Endodontics",
+    "date": "2026-08",
+    "focus": [
+      "transfer"
+    ],
+    "evidence": "internal",
+    "relevance": "Transferable small-canal CBCT detection design for canal continuity and case-level thresholds.",
+    "method": "3D nnU-Net trained on 248 CBCT volumes with 3D Slicer consensus labels.",
+    "metrics": "Independent test set: case-level sensitivity 94.7%, specificity 100%, kappa 0.920.",
+    "limitation": "Not IANC; small independent test set.",
+    "pmid": "41903680",
+    "doi": "10.1016/j.joen.2026.03.011",
+    "links": [
+      [
+        "PMID 41903680",
+        "https://pubmed.ncbi.nlm.nih.gov/41903680/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1016/j.joen.2026.03.011"
+      ]
+    ]
+  },
+  {
+    "title": "TAPSeg open-source tooth and pulp segmentation",
     "source_type": "peer-reviewed journal article",
     "authors": "Zhang et al.",
-    "venue": "Journal of Dentistry",
+    "source": "Journal of Dentistry",
     "date": "2026-08",
+    "focus": [
+      "tool",
+      "workflow"
+    ],
+    "evidence": "external",
+    "relevance": "Useful model for 3D Slicer integration, external testing, and one-click clinical workflow design.",
+    "method": "Three-stage V-Net tooth instance segmentation and nnU-Net pulp segmentation.",
+    "metrics": "External datasets: DSC about 91%-94%; HD95 about 0.7-1.45 mm.",
+    "limitation": "Not mandibular canal; public code availability should be verified before reuse.",
     "pmid": "41865812",
     "doi": "10.1016/j.jdent.2026.106643",
-    "relation_to_project": "Useful design precedent for 3D Slicer integration and external testing.",
-    "limitations": "Not mandibular canal; public code availability should be verified before reuse."
+    "links": [
+      [
+        "PMID 41865812",
+        "https://pubmed.ncbi.nlm.nih.gov/41865812/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1016/j.jdent.2026.106643"
+      ]
+    ]
+  },
+  {
+    "title": "Practitioner perception of AR/VR and AI segmentation",
+    "source_type": "peer-reviewed journal article",
+    "authors": "Reymus et al.",
+    "source": "International Endodontic Journal",
+    "date": "2026-08",
+    "focus": [
+      "workflow"
+    ],
+    "evidence": "pilot",
+    "relevance": "Directly useful for clinician confidence, usability, information extraction, and reader-study questionnaire design.",
+    "method": "Thirty dentists compared conventional CBCT, AI-driven 3D segmentation, AR, and VR for two difficult cases.",
+    "metrics": "Segmentation, AR, and VR improved information extraction and usability versus conventional slices; screen-based segmentation was most often rated clinically relevant.",
+    "limitation": "Pilot study with only two cases.",
+    "pmid": "41833977",
+    "doi": "10.1111/iej.70143",
+    "links": [
+      [
+        "PMID 41833977",
+        "https://pubmed.ncbi.nlm.nih.gov/41833977/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1111/iej.70143"
+      ]
+    ]
+  },
+  {
+    "title": "DIVA-seg vessel and aneurysm segmentation",
+    "source_type": "peer-reviewed journal article",
+    "authors": "AJNR study",
+    "source": "American Journal of Neuroradiology",
+    "date": "2026-08",
+    "focus": [
+      "transfer"
+    ],
+    "evidence": "external",
+    "relevance": "Transferable template for external validation, morphology agreement, and qualitative blinded review of tubular structures.",
+    "method": "Iterative pseudolabeling with nnU-Net; stable unlabeled cases added to supervised training.",
+    "metrics": "External vessel DSC 0.899, aneurysm DSC 0.861, mean HD 0.67 mm; Bland-Altman morphology checks.",
+    "limitation": "Neurovascular MRA, not dental CBCT.",
+    "pmid": "41690811",
+    "doi": "10.3174/ajnr.A9231",
+    "links": [
+      [
+        "PMID 41690811",
+        "https://pubmed.ncbi.nlm.nih.gov/41690811/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.3174/ajnr.A9231"
+      ]
+    ]
   }
 ]

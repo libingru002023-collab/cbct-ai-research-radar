@@ -1,4 +1,4 @@
-const items = [
+const seedItems = [
   {
     title: "AI-assisted 3D implant position planning",
     authors: "Shen et al.",
@@ -97,6 +97,8 @@ const items = [
   },
 ];
 
+let items = [...seedItems];
+
 const tools = [
   {
     name: "DentalSegmentator",
@@ -157,7 +159,40 @@ function evidenceLabel(value) {
     internal: "internal validation",
     pilot: "pilot",
     resource: "resource",
-  }[value];
+  }[value] || value;
+}
+
+function normalizeItem(item) {
+  const doiLink = item.doi ? [["DOI", `https://doi.org/${item.doi}`]] : [];
+  const pmidLink = item.pmid ? [[`PMID ${item.pmid}`, `https://pubmed.ncbi.nlm.nih.gov/${item.pmid}/`]] : [];
+  const repoLink = item.repository ? [["Repository", item.repository]] : [];
+
+  return {
+    title: item.title,
+    authors: item.authors || "Authors not parsed",
+    source: item.source || item.venue || "Source not parsed",
+    date: item.date || item.publication_date || "Date not parsed",
+    focus: item.focus || inferFocus(item.title || ""),
+    evidence: item.evidence || "internal",
+    relevance: item.relevance || item.relation_to_project || "Potentially relevant to dental CBCT AI research; manual screening recommended.",
+    method: item.method || "Automatically imported from a literature search. Read the abstract/full text before citing.",
+    metrics: item.metrics || "Metrics not parsed automatically.",
+    limitation: item.limitation || item.limitations || "Automatically imported; evidence level and clinical relevance need manual review.",
+    links: item.links || [...pmidLink, ...doiLink, ...repoLink],
+  };
+}
+
+function inferFocus(title) {
+  const lower = title.toLowerCase();
+  const focus = [];
+  if (lower.includes("mandibular canal") || lower.includes("inferior alveolar") || lower.includes("nerve canal")) {
+    focus.push("ianc");
+  }
+  if (lower.includes("implant")) focus.push("implant");
+  if (lower.includes("workflow") || lower.includes("reader") || lower.includes("confidence")) focus.push("workflow");
+  if (lower.includes("dataset") || lower.includes("benchmark") || lower.includes("open-source")) focus.push("tool");
+  if (!focus.length) focus.push("transfer");
+  return focus;
 }
 
 function renderItems() {
@@ -173,33 +208,35 @@ function renderItems() {
     return focusMatch && evidenceMatch && queryMatch;
   });
 
-  itemGrid.innerHTML = filtered
-    .map(
-      (item) => `
-        <article class="card">
-          <div class="tag-row">
-            ${item.focus
-              .map((tag) => `<span class="tag ${tag === "ianc" || tag === "implant" ? "direct" : ""}">${tag}</span>`)
-              .join("")}
-            <span class="tag ${item.evidence === "pilot" ? "caution" : ""}">${evidenceLabel(item.evidence)}</span>
-          </div>
-          <div>
-            <h3>${item.title}</h3>
-            <div class="meta">${item.authors} | ${item.source} | ${item.date}</div>
-          </div>
-          <div>
-            <p><strong>Why it matters:</strong> ${item.relevance}</p>
-            <p><strong>Design notes:</strong> ${item.method}</p>
-            <p><strong>Metrics:</strong> ${item.metrics}</p>
-            <p><strong>Limitation:</strong> ${item.limitation}</p>
-          </div>
-          <div class="card-footer">
-            ${item.links.map(([label, url]) => `<a class="text-link" href="${url}" target="_blank" rel="noreferrer">${label}</a>`).join("")}
-          </div>
-        </article>
-      `,
-    )
-    .join("");
+  itemGrid.innerHTML = filtered.length
+    ? filtered.map(renderCard).join("")
+    : `<div class="empty-state">No matching items. Clear filters or wait for the next literature update.</div>`;
+}
+
+function renderCard(item) {
+  return `
+    <article class="card">
+      <div class="tag-row">
+        ${item.focus
+          .map((tag) => `<span class="tag ${tag === "ianc" || tag === "implant" ? "direct" : ""}">${tag}</span>`)
+          .join("")}
+        <span class="tag ${item.evidence === "pilot" ? "caution" : ""}">${evidenceLabel(item.evidence)}</span>
+      </div>
+      <div>
+        <h3>${escapeHtml(item.title)}</h3>
+        <div class="meta">${escapeHtml(item.authors)} | ${escapeHtml(item.source)} | ${escapeHtml(item.date)}</div>
+      </div>
+      <div>
+        <p><strong>Why it matters:</strong> ${escapeHtml(item.relevance)}</p>
+        <p><strong>Design notes:</strong> ${escapeHtml(item.method)}</p>
+        <p><strong>Metrics:</strong> ${escapeHtml(item.metrics)}</p>
+        <p><strong>Limitation:</strong> ${escapeHtml(item.limitation)}</p>
+      </div>
+      <div class="card-footer">
+        ${item.links.map(([label, url]) => `<a class="text-link" href="${url}" target="_blank" rel="noreferrer">${escapeHtml(label)}</a>`).join("")}
+      </div>
+    </article>
+  `;
 }
 
 function renderTools() {
@@ -207,8 +244,8 @@ function renderTools() {
     .map(
       (tool) => `
         <li>
-          <strong><a class="text-link" href="${tool.url}" target="_blank" rel="noreferrer">${tool.name}</a></strong>
-          <p>${tool.detail}</p>
+          <strong><a class="text-link" href="${tool.url}" target="_blank" rel="noreferrer">${escapeHtml(tool.name)}</a></strong>
+          <p>${escapeHtml(tool.detail)}</p>
         </li>
       `,
     )
@@ -221,7 +258,7 @@ function renderEndpoints() {
       (endpoint) => `
         <div class="check-item">
           <span class="check-dot" aria-hidden="true"></span>
-          <span>${endpoint}</span>
+          <span>${escapeHtml(endpoint)}</span>
         </div>
       `,
     )
@@ -248,6 +285,31 @@ function syncBrief() {
   briefOutput.value = buildBrief();
 }
 
+function escapeHtml(value) {
+  return String(value)
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#039;");
+}
+
+async function loadResearchItems() {
+  try {
+    const response = await fetch("data/research-items.json", { cache: "no-store" });
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const data = await response.json();
+    if (Array.isArray(data) && data.length) {
+      items = data.map(normalizeItem);
+    }
+  } catch {
+    // Local file:// previews can block JSON fetches. The embedded seed keeps the app usable offline.
+    items = [...seedItems];
+  }
+  renderItems();
+  syncBrief();
+}
+
 [focusFilter, evidenceFilter, searchInput].forEach((control) => control.addEventListener("input", renderItems));
 
 copyBrief.addEventListener("click", async () => {
@@ -263,7 +325,6 @@ copyBrief.addEventListener("click", async () => {
   }
 });
 
-renderItems();
 renderTools();
 renderEndpoints();
-syncBrief();
+loadResearchItems();
