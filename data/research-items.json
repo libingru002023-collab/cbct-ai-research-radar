@@ -1,5 +1,37 @@
 [
   {
+    "title": "A multi-stage deep learning framework for half-detector truncation and metal artifact reduction in CBCT.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Ahn J, Baek J",
+    "source": "Medical physics",
+    "date": "2026 Aug",
+    "focus": [
+      "implant",
+      "tool",
+      "workflow"
+    ],
+    "evidence": "resource",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Cone-beam computed tomography (CBCT) is widely utilized for its high spatial resolution and compact design.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42563401",
+    "doi": "10.1002/mp.70604",
+    "links": [
+      [
+        "PMID 42563401",
+        "https://pubmed.ncbi.nlm.nih.gov/42563401/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1002/mp.70604"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-08-07T22:56:54Z",
+    "screening_score": 10
+  },
+  {
     "title": "Clinical Applicability of Artificial Intelligence-Driven Implant Planning and Surgical Guide Design in the Maxillary Esthetic Zone: A Registry-Based Cohort Study.",
     "source_type": "automatically imported PubMed record",
     "authors": "Dawood EA, Elgarba BM, Fontenele RC, et al.",
