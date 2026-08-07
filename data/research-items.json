@@ -1,5 +1,36 @@
 [
   {
+    "title": "Clinical Applicability of Artificial Intelligence-Driven Implant Planning and Surgical Guide Design in the Maxillary Esthetic Zone: A Registry-Based Cohort Study.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Dawood EA, Elgarba BM, Fontenele RC, et al.",
+    "source": "Clinical oral implants research",
+    "date": "2026-06-03",
+    "focus": [
+      "implant",
+      "workflow"
+    ],
+    "evidence": "internal",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "This study evaluated the accuracy, time efficiency, and workflow consistency of artificial intelligence (AI)-assisted versus human expert (HI) implant planning in the esthetic anterior maxilla.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42237361",
+    "doi": "10.1111/clr.70144",
+    "links": [
+      [
+        "PMID 42237361",
+        "https://pubmed.ncbi.nlm.nih.gov/42237361/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1111/clr.70144"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-08-07T01:34:17Z",
+    "screening_score": 22
+  },
+  {
     "title": "Patient-Level Cross-validated nnU-Net for Multiclass Segmentation of Lung Parenchyma and Solid Adenocarcinoma on Thoracic CT.",
     "source_type": "automatically imported PubMed record",
     "authors": "El Haouat A, Sekkat H, Amarhyouz O, et al.",
