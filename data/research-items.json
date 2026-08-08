@@ -1,5 +1,36 @@
 [
   {
+    "title": "Precision periodontology in clinical practice: bridging omics and clinical decision-making.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Sevi S, Romeggio S, Dinatale G, et al.",
+    "source": "Clinical oral investigations",
+    "date": "2026-08-08",
+    "focus": [
+      "implant",
+      "workflow"
+    ],
+    "evidence": "internal",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Precision periodontology integrates molecular diagnostics, genomics, and advanced imaging into clinical decision-making.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42567900",
+    "doi": "10.1007/s00784-026-07059-4",
+    "links": [
+      [
+        "PMID 42567900",
+        "https://pubmed.ncbi.nlm.nih.gov/42567900/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1007/s00784-026-07059-4"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-08-08T22:48:47Z",
+    "screening_score": 10
+  },
+  {
     "title": "A multi-stage deep learning framework for half-detector truncation and metal artifact reduction in CBCT.",
     "source_type": "automatically imported PubMed record",
     "authors": "Ahn J, Baek J",
