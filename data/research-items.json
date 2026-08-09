@@ -1,5 +1,37 @@
 [
   {
+    "title": "Deep Learning-based Automated Vessel Extraction for VR Image Creation From Cerebral TOF-MRA.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Kawahara K, Sato S, Oura D",
+    "source": "Academic radiology",
+    "date": "2026-08-08",
+    "focus": [
+      "tool",
+      "transfer",
+      "workflow"
+    ],
+    "evidence": "resource",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Accurate and efficient three-dimensional visualization of cerebral vasculature is essential for clinical evaluation; however, manual vessel extraction from time-of-flight (TOF) magnetic resonance angiography angiography (MRA) is time-consuming and operator-dependent.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'transfer_tubular_structures'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42570908",
+    "doi": "10.1016/j.acra.2026.07.043",
+    "links": [
+      [
+        "PMID 42570908",
+        "https://pubmed.ncbi.nlm.nih.gov/42570908/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1016/j.acra.2026.07.043"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-08-09T22:52:11Z",
+    "screening_score": 9
+  },
+  {
     "title": "Precision periodontology in clinical practice: bridging omics and clinical decision-making.",
     "source_type": "automatically imported PubMed record",
     "authors": "Sevi S, Romeggio S, Dinatale G, et al.",
