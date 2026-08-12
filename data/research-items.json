@@ -1,5 +1,37 @@
 [
   {
+    "title": "ArteryX: A Reliable End-To-End Toolbox for Standardized Intracranial Artery Feature Extraction From 3D TOF-MRA.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Faiyaz A, Hoang N, Schifitto G, et al.",
+    "source": "Magnetic resonance in medicine",
+    "date": "2026-08-11",
+    "focus": [
+      "tool",
+      "transfer",
+      "workflow"
+    ],
+    "evidence": "resource",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Cerebrovascular research heavily relies on quantitative analysis of intracranial arteries from time-of-flight magnetic resonance angiography (TOF-MRA), yet existing processing pipelines remain limited by inconsistent artery labeling and a high manual correction burden.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'transfer_tubular_structures'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42581332",
+    "doi": "10.1002/mrm.70564",
+    "links": [
+      [
+        "PMID 42581332",
+        "https://pubmed.ncbi.nlm.nih.gov/42581332/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1002/mrm.70564"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-08-12T23:03:46Z",
+    "screening_score": 9
+  },
+  {
     "title": "Deep Learning-based Automated Vessel Extraction for VR Image Creation From Cerebral TOF-MRA.",
     "source_type": "automatically imported PubMed record",
     "authors": "Kawahara K, Sato S, Oura D",
