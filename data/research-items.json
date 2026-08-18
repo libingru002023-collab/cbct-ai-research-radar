@@ -1,5 +1,35 @@
 [
   {
+    "title": "Nationwide registry-based automated dose monitoring for dental CBCT: a feasibility study.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Jo GD, Kim JS, Kwon AY, et al.",
+    "source": "Oral radiology",
+    "date": "2026-08-17",
+    "focus": [
+      "workflow"
+    ],
+    "evidence": "external",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "To develop and evaluate the feasibilityof a nationwide registry-based automated dose monitoring system for dental cone-beam computed tomography (CBCT).",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42608515",
+    "doi": "10.1007/s11282-026-00960-4",
+    "links": [
+      [
+        "PMID 42608515",
+        "https://pubmed.ncbi.nlm.nih.gov/42608515/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1007/s11282-026-00960-4"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-08-18T22:43:13Z",
+    "screening_score": 9
+  },
+  {
     "title": "Investigation of Effects of Hybrid Hyrax-Mentoplate Treatment in High-Angle Class III Patients: A Three-Dimensional, Retrospective Study.",
     "source_type": "automatically imported PubMed record",
     "authors": "Yıldırım G, Özbilen EÖ, Özdemir F",
