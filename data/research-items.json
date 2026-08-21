@@ -1,5 +1,95 @@
 [
   {
+    "title": "Deep learning based hybrid system for automatic detection and classification of nasopalatine canal in cone beam computed tomography images.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Erdem Ş, Aydemir ME, Türkoğlu M",
+    "source": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
+    "date": "2026-08-20",
+    "focus": [
+      "workflow"
+    ],
+    "evidence": "external",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "The objective of this study was to develop and evaluate a deep learning-based hybrid system for the automatic detection and classification of the nasopalatine canal (NPC) via cone beam computed tomography (CBCT) images.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42625015",
+    "doi": "10.1007/s00405-026-10561-w",
+    "links": [
+      [
+        "PMID 42625015",
+        "https://pubmed.ncbi.nlm.nih.gov/42625015/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1007/s00405-026-10561-w"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-08-21T22:43:39Z",
+    "screening_score": 14
+  },
+  {
+    "title": "Digital infrastructure and readiness for artificial intelligence (AI) - enabled dentistry: technology adoption and barriers among dental practitioners in Bengaluru, India.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Nagarajappa R, Kariyappa S, Bullappa D, et al.",
+    "source": "The Saudi dental journal",
+    "date": "2026-08-21",
+    "focus": [
+      "workflow"
+    ],
+    "evidence": "internal",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "To assess digital readiness for AI-enabled dentistry by evaluating the uptake of digital technologies, patterns of use, and implementation barriers among dentists in Bengaluru, India.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42627600",
+    "doi": "10.1007/s44445-026-00204-5",
+    "links": [
+      [
+        "PMID 42627600",
+        "https://pubmed.ncbi.nlm.nih.gov/42627600/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1007/s44445-026-00204-5"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-08-21T22:43:39Z",
+    "screening_score": 10
+  },
+  {
+    "title": "Multi-Scale Assessment of Scaffold-Guided Regeneration in Human Extraction Sockets Using an Ultra-Porous TiO₂ Biomaterial.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Jamous R, Nysæther I, Haugen HJ, et al.",
+    "source": "Acta biomaterialia",
+    "date": "2026-08-20",
+    "focus": [
+      "workflow"
+    ],
+    "evidence": "internal",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Ultra-porous TiO₂ scaffolds are architected non-degradable ceramic graft substitutes, but human evidence relating their structural integration to local tissue maturation remains limited.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42624348",
+    "doi": "10.1016/j.actbio.2026.08.041",
+    "links": [
+      [
+        "PMID 42624348",
+        "https://pubmed.ncbi.nlm.nih.gov/42624348/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1016/j.actbio.2026.08.041"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-08-21T22:43:39Z",
+    "screening_score": 9
+  },
+  {
     "title": "Two-stage deep learning framework for magnetic resonance imaging-based detection of temporomandibular joint osteoarthritis.",
     "source_type": "automatically imported PubMed record",
     "authors": "Tsai G, Park D, Orhan K, et al.",
