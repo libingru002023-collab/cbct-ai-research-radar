@@ -1,5 +1,36 @@
 [
   {
+    "title": "Development and Internal Evaluation of a Deep Learning Model for Fine-Grained Detection of Dental Trauma on CBCT-Dominant Image Records.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Dai W, Wu J, Li T, et al.",
+    "source": "Journal of dentistry",
+    "date": "2026-08-22",
+    "focus": [
+      "tool",
+      "workflow"
+    ],
+    "evidence": "external",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "To develop and internally evaluate a YOLO-based model for fine-grained localization and classification of dental trauma subtypes.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42632476",
+    "doi": "10.1016/j.jdent.2026.106984",
+    "links": [
+      [
+        "PMID 42632476",
+        "https://pubmed.ncbi.nlm.nih.gov/42632476/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1016/j.jdent.2026.106984"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-08-23T22:40:34Z",
+    "screening_score": 9
+  },
+  {
     "title": "Deep learning based hybrid system for automatic detection and classification of nasopalatine canal in cone beam computed tomography images.",
     "source_type": "automatically imported PubMed record",
     "authors": "Erdem Ş, Aydemir ME, Türkoğlu M",
