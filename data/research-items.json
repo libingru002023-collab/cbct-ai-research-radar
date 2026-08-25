@@ -1,5 +1,67 @@
 [
   {
+    "title": "GENERALIZABILITY OF CLOUD-BASED AI SOFTWARE FOR ANTERIOR TOOTH SEGMENTATION IN MULTICENTER CBCT DATASETS: AN EXTERNAL VALIDATION STUDY.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Adiverci GC, Julião ELD, Leite AF, et al.",
+    "source": "Journal of dentistry",
+    "date": "2026-08-24",
+    "focus": [
+      "tool",
+      "workflow"
+    ],
+    "evidence": "external",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "To externally validate the generalizability of a cloud-based artificial intelligence (AI) software for automated anterior tooth segmentation in cone-beam computed tomography (CBCT) scans acquired with five CBCT systems and to identify factors associated with the need for manual refinement.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42637207",
+    "doi": "10.1016/j.jdent.2026.106997",
+    "links": [
+      [
+        "PMID 42637207",
+        "https://pubmed.ncbi.nlm.nih.gov/42637207/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1016/j.jdent.2026.106997"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-08-25T22:47:32Z",
+    "screening_score": 20
+  },
+  {
+    "title": "A comparison of panoramic views reformatted from CBCT scans using manual or automated workflows: an evaluation of geometric accuracy and subjective image quality.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Fahd A, Ellabban MT, Bornstein MM, et al.",
+    "source": "Clinical oral investigations",
+    "date": "2026-08-25",
+    "focus": [
+      "tool",
+      "workflow"
+    ],
+    "evidence": "resource",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "This study aimed to compare (1) the geometric accuracy and (2) subjective image quality of CBCT reformatted panoramic images generated using three reconstruction workflows: automatic reconstruction, nasal spine plane-oriented manual reconstruction, and occlusal plane-oriented manual reconstruction.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42640336",
+    "doi": "10.1007/s00784-026-07086-1",
+    "links": [
+      [
+        "PMID 42640336",
+        "https://pubmed.ncbi.nlm.nih.gov/42640336/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1007/s00784-026-07086-1"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-08-25T22:47:32Z",
+    "screening_score": 8
+  },
+  {
     "title": "Development and Internal Evaluation of a Deep Learning Model for Fine-Grained Detection of Dental Trauma on CBCT-Dominant Image Records.",
     "source_type": "automatically imported PubMed record",
     "authors": "Dai W, Wu J, Li T, et al.",
