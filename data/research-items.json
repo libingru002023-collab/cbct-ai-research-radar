@@ -1,5 +1,249 @@
 [
   {
+    "title": "A novel fluoride tray-assisted workflow for artificial intelligence-driven automated maxillary gingival segmentation on cone beam CT.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Papasratorn D, Gracea RS, Fontenele RC, et al.",
+    "source": "Dento maxillo facial radiology",
+    "date": "2026 Sep 01",
+    "focus": [
+      "implant",
+      "workflow"
+    ],
+    "evidence": "internal",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "To clinically validate an artificial intelligence (AI)-based tool for automated maxillary gingival segmentation of marginal and supracrestal gingiva on cone beam CT (CBCT) scans using a novel soft tissue separation technique with a fluoride tray.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42139192",
+    "doi": "10.1093/dmfr/twag023",
+    "links": [
+      [
+        "PMID 42139192",
+        "https://pubmed.ncbi.nlm.nih.gov/42139192/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1093/dmfr/twag023"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-09-01T01:18:48Z",
+    "screening_score": 24
+  },
+  {
+    "title": "Application of semi-automatic cone beam computed tomography-magnetic resonance imaging image registration technique in anatomical characterisation of temporomandibular joint disc displacement: A methodological feasibility study.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Ding Y, Sun F, Shen Y, et al.",
+    "source": "Cranio : the journal of craniomandibular practice",
+    "date": "2026-03-04",
+    "focus": [
+      "workflow"
+    ],
+    "evidence": "internal",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "This methodological study aimed to evaluate the technical feasibility and accuracy of a semi-automatic cone beam computed tomography (CBCT) and magnetic resonance imaging (MRI) registration technique for the anatomical classification of TMJ disc displacement.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "41778510",
+    "doi": "10.1080/08869634.2026.2629090",
+    "links": [
+      [
+        "PMID 41778510",
+        "https://pubmed.ncbi.nlm.nih.gov/41778510/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1080/08869634.2026.2629090"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-09-01T01:18:48Z",
+    "screening_score": 16
+  },
+  {
+    "title": "A bibliometric approach to understanding trends and major topics in cone beam computed tomography research.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Ho YS, Fardi A, Kodonas K",
+    "source": "Journal of stomatology, oral and maxillofacial surgery",
+    "date": "2026-02-21",
+    "focus": [
+      "implant",
+      "workflow"
+    ],
+    "evidence": "internal",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "This bibliometric analysis aimed to map the existing knowledge landscape and identify emerging research trends in the field of cone-beam computed tomography (CBCT).",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "41730350",
+    "doi": "10.1016/j.jormas.2026.102769",
+    "links": [
+      [
+        "PMID 41730350",
+        "https://pubmed.ncbi.nlm.nih.gov/41730350/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1016/j.jormas.2026.102769"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-09-01T01:18:48Z",
+    "screening_score": 15
+  },
+  {
+    "title": "Automated tooth numbering on panoramic radiographs versus cone-beam computed tomographs: a diagnostic accuracy study of a commercial artificial intelligence system.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Sultani N, Kazimierczak N, Serafin Z, et al.",
+    "source": "Dento maxillo facial radiology",
+    "date": "2026 Sep 01",
+    "focus": [
+      "workflow"
+    ],
+    "evidence": "internal",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "To assess the diagnostic accuracy of a commercial artificial intelligence system for automated tooth numbering on panoramic radiographs and cone-beam CT (CBCT) and to quantify case-level reliability.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42139197",
+    "doi": "10.1093/dmfr/twag026",
+    "links": [
+      [
+        "PMID 42139197",
+        "https://pubmed.ncbi.nlm.nih.gov/42139197/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1093/dmfr/twag026"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-09-01T01:18:48Z",
+    "screening_score": 15
+  },
+  {
+    "title": "Infant Brain Age Estimation With T1w/T2w Ratio MRI: A Myelination-Aware Deep Learning Approach.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Park H, Choi YH, Gho SM",
+    "source": "Journal of magnetic resonance imaging : JMRI",
+    "date": "2026-06-05",
+    "focus": [
+      "transfer",
+      "workflow"
+    ],
+    "evidence": "external",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Brain age estimation provides a noninvasive MRI biomarker of neurodevelopment.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'transfer_tubular_structures'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42247370",
+    "doi": "10.1002/jmri.70376",
+    "links": [
+      [
+        "PMID 42247370",
+        "https://pubmed.ncbi.nlm.nih.gov/42247370/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1002/jmri.70376"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-09-01T01:18:49Z",
+    "screening_score": 13
+  },
+  {
+    "title": "Diagnostic accuracy of artificial intelligence tools in evaluating the inferior alveolar nerve-third molar relationship: a systematic review.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Teodoro AB, Fedato R, Evangelista K, et al.",
+    "source": "Dento maxillo facial radiology",
+    "date": "2026 Sep 01",
+    "focus": [
+      "ianc",
+      "implant"
+    ],
+    "evidence": "internal",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "To determine the diagnostic capability of artificial intelligence (AI) for detecting the relationship between the inferior alveolar nerve (IAN) and the third molar.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'direct_ianc_implant'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42191662",
+    "doi": "10.1093/dmfr/twag033",
+    "links": [
+      [
+        "PMID 42191662",
+        "https://pubmed.ncbi.nlm.nih.gov/42191662/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1093/dmfr/twag033"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-09-01T01:18:46Z",
+    "screening_score": 13
+  },
+  {
+    "title": "Functional and morphometric outcome of adaptable slicing condylectomy in transverse condylar hyperplasia: A deep learning-enhanced 3D study.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Spallaccia F, Committeri U, Giovannoni ME, et al.",
+    "source": "Journal of cranio-maxillo-facial surgery : official publication of the European Association for Cranio-Maxillo-Facial Surgery",
+    "date": "2026-07-08",
+    "focus": [
+      "workflow"
+    ],
+    "evidence": "internal",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Unilateral condylar hyperplasia (UCH) with transverse mandibular deviation is a frequent cause of facial asymmetry and skeletal Class III malocclusion.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42418925",
+    "doi": "10.1016/j.jcms.2026.104649",
+    "links": [
+      [
+        "PMID 42418925",
+        "https://pubmed.ncbi.nlm.nih.gov/42418925/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1016/j.jcms.2026.104649"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-09-01T01:18:48Z",
+    "screening_score": 11
+  },
+  {
+    "title": "Artificial intelligence-powered automatic tooth segmentation from cone-beam computed tomography for the fabrication of surgical splints.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Xie Y, Leung PH, Hao H, et al.",
+    "source": "International journal of oral and maxillofacial surgery",
+    "date": "2026-04-21",
+    "focus": [
+      "workflow"
+    ],
+    "evidence": "internal",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "This cross-sectional study explored the feasibility of artificial intelligence (AI)-powered tooth segmentation from cone-beam computed tomography (CBCT) for surgical splint fabrication.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42020222",
+    "doi": "10.1016/j.ijom.2026.03.024",
+    "links": [
+      [
+        "PMID 42020222",
+        "https://pubmed.ncbi.nlm.nih.gov/42020222/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1016/j.ijom.2026.03.024"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-09-01T01:18:48Z",
+    "screening_score": 11
+  },
+  {
     "title": "GENERALIZABILITY OF CLOUD-BASED AI SOFTWARE FOR ANTERIOR TOOTH SEGMENTATION IN MULTICENTER CBCT DATASETS: AN EXTERNAL VALIDATION STUDY.",
     "source_type": "automatically imported PubMed record",
     "authors": "Adiverci GC, Julião ELD, Leite AF, et al.",
