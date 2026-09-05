@@ -1,5 +1,37 @@
 [
   {
+    "title": "Artificial Intelligence-Assisted Cone-Beam Computed Tomography Analysis in Alveolar Ridge Preservation: A Narrative Review.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Tengku Ahmad Noor TNE, Khurshid Z, Nugraha AP, et al.",
+    "source": "European journal of dentistry",
+    "date": "2026-09-03",
+    "focus": [
+      "implant",
+      "tool",
+      "workflow"
+    ],
+    "evidence": "external",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Alveolar ridge preservation (ARP) after tooth extraction depends on accurate three-dimensional bone assessment to optimize implant placement and prosthetic outcomes.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42692081",
+    "doi": "10.1055/s-0046-1827029",
+    "links": [
+      [
+        "PMID 42692081",
+        "https://pubmed.ncbi.nlm.nih.gov/42692081/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1055/s-0046-1827029"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-09-05T00:08:17Z",
+    "screening_score": 22
+  },
+  {
     "title": "A novel fluoride tray-assisted workflow for artificial intelligence-driven automated maxillary gingival segmentation on cone beam CT.",
     "source_type": "automatically imported PubMed record",
     "authors": "Papasratorn D, Gracea RS, Fontenele RC, et al.",
