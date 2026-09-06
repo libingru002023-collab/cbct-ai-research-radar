@@ -1,5 +1,35 @@
 [
   {
+    "title": "3D reconstruction of the target tooth occlusal surface from a single-view image for root canal surgical navigation.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Chen G, Tang Z",
+    "source": "Quantitative imaging in medicine and surgery",
+    "date": "2026-08-11",
+    "focus": [
+      "workflow"
+    ],
+    "evidence": "internal",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "In robotic endodontic navigation, preoperative cone-beam computed tomography (CBCT) provides root canal information, whereas intraoperative vision usually provides only single-view tooth surface images.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42701564",
+    "doi": "10.21037/qims-2026-0602",
+    "links": [
+      [
+        "PMID 42701564",
+        "https://pubmed.ncbi.nlm.nih.gov/42701564/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.21037/qims-2026-0602"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-09-06T23:57:26Z",
+    "screening_score": 11
+  },
+  {
     "title": "Deep Learning-Based Evaluation of Impacted Third Molars with Open and Closed Apices on CBCT.",
     "source_type": "automatically imported PubMed record",
     "authors": "Unal SY, Keser G, Pekiner FN",
