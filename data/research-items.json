@@ -1,5 +1,65 @@
 [
   {
+    "title": "Volumetric Symmetry of Maxillary Tooth Roots: A Cone Beam Computed Tomography Based Study Using Manual-Assisted Segmentation.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Pewarchuk C, Geha H, Maghsoodi-Zahedi T, et al.",
+    "source": "Annals of anatomy = Anatomischer Anzeiger : official organ of the Anatomische Gesellschaft",
+    "date": "2026-09-06",
+    "focus": [
+      "workflow"
+    ],
+    "evidence": "internal",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "To evaluate bilateral symmetry in root volume, length, mesiodistal (M/D) and buccopalatal (B/P) widths of maxillary permanent teeth anterior to the first molars.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42702243",
+    "doi": "10.1016/j.aanat.2026.153365",
+    "links": [
+      [
+        "PMID 42702243",
+        "https://pubmed.ncbi.nlm.nih.gov/42702243/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1016/j.aanat.2026.153365"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-09-08T00:26:48Z",
+    "screening_score": 14
+  },
+  {
+    "title": "EndoPlanner: An adaptive planning framework for root canal therapy with graph-based endodontic landmark detection and inference-time refinement.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Zhang Y, Kong F, Wang K, et al.",
+    "source": "Medical image analysis",
+    "date": "2026-09-02",
+    "focus": [
+      "workflow"
+    ],
+    "evidence": "internal",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Root canal therapy is a prevalent dental procedure for treating pulp infections; however, its complexity due to the intricate variability of root canal anatomies frequently results in procedural errors, excessive tooth structure loss, and suboptimal outcomes, especially in multi-rooted teeth.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42702133",
+    "doi": "10.1016/j.media.2026.104294",
+    "links": [
+      [
+        "PMID 42702133",
+        "https://pubmed.ncbi.nlm.nih.gov/42702133/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1016/j.media.2026.104294"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-09-08T00:26:48Z",
+    "screening_score": 9
+  },
+  {
     "title": "3D reconstruction of the target tooth occlusal surface from a single-view image for root canal surgical navigation.",
     "source_type": "automatically imported PubMed record",
     "authors": "Chen G, Tang Z",
