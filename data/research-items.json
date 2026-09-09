@@ -1,5 +1,100 @@
 [
   {
+    "title": "Artificial intelligence-based segmentation of mandibular canal on cone-beam computed tomography: a systematic review and meta-analysis.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Hassanein FEA, Sherif MA, Salah A, et al.",
+    "source": "Oral radiology",
+    "date": "2026-09-08",
+    "focus": [
+      "ianc",
+      "implant",
+      "workflow"
+    ],
+    "evidence": "external",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "To systematically evaluate the accuracy and generalizability of artificial intelligence (AI)-based segmentation of mandibular canal and related anatomical structures on cone-beam computed tomography (CBCT) and to examine methodological factors influencing reported performance.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'direct_ianc_implant'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42709366",
+    "doi": "10.1007/s11282-026-00969-9",
+    "links": [
+      [
+        "PMID 42709366",
+        "https://pubmed.ncbi.nlm.nih.gov/42709366/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1007/s11282-026-00969-9"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-09-09T00:17:42Z",
+    "screening_score": 32
+  },
+  {
+    "title": "A deep learning framework for automated quantification of peripheral nerve lesions in MR neurography.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Beste NC, Raudonat C, Fesselier M, et al.",
+    "source": "European radiology experimental",
+    "date": "2026-09-08",
+    "focus": [
+      "tool",
+      "transfer",
+      "workflow"
+    ],
+    "evidence": "resource",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Magnetic resonance neurography (MRN) enables high-resolution visualization of peripheral nerves, yet quantitative analysis of intraneural lesion burden remains limited by manual, observer-dependent workflows.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'transfer_tubular_structures'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42709362",
+    "doi": "10.1186/s41747-026-00786-z",
+    "links": [
+      [
+        "PMID 42709362",
+        "https://pubmed.ncbi.nlm.nih.gov/42709362/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1186/s41747-026-00786-z"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-09-09T00:17:43Z",
+    "screening_score": 9
+  },
+  {
+    "title": "A narrative review of artificial intelligence in dental imaging: from dataset design to clinical translation.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Zhang X, Han JY, Heo J, et al.",
+    "source": "Oral radiology",
+    "date": "2026-09-07",
+    "focus": [
+      "tool",
+      "workflow"
+    ],
+    "evidence": "resource",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "To review the development pipeline of artificial intelligence (AI) in dental imaging, focusing on dataset design, annotation quality, model development, validation, and clinical translation.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42706458",
+    "doi": "10.1007/s11282-026-00968-w",
+    "links": [
+      [
+        "PMID 42706458",
+        "https://pubmed.ncbi.nlm.nih.gov/42706458/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1007/s11282-026-00968-w"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-09-09T00:17:43Z",
+    "screening_score": 9
+  },
+  {
     "title": "Volumetric Symmetry of Maxillary Tooth Roots: A Cone Beam Computed Tomography Based Study Using Manual-Assisted Segmentation.",
     "source_type": "automatically imported PubMed record",
     "authors": "Pewarchuk C, Geha H, Maghsoodi-Zahedi T, et al.",
