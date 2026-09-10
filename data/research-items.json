@@ -1,5 +1,98 @@
 [
   {
+    "title": "Beyond Prevalence: An Exploratory Framework for Patient Phenotyping and Clinical Burden Analysis of Incidental Findings in Dental Cone-Beam Computed Tomography.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Mecham AR, Newman M, Peterson T, et al.",
+    "source": "European journal of dentistry",
+    "date": "2026-09-08",
+    "focus": [
+      "implant",
+      "tool",
+      "workflow"
+    ],
+    "evidence": "external",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "To move beyond simple prevalence reporting by applying an exploratory, transferable multi-method analytical framework to incidental findings on dental cone-beam computed tomography (CBCT).",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42710544",
+    "doi": "10.1055/s-0046-1827797",
+    "links": [
+      [
+        "PMID 42710544",
+        "https://pubmed.ncbi.nlm.nih.gov/42710544/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1055/s-0046-1827797"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-09-10T00:16:52Z",
+    "screening_score": 21
+  },
+  {
+    "title": "[Technical medicine in orthognathic surgery: from imaging to surgery].",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Klop C, Baan F",
+    "source": "Nederlands tijdschrift voor tandheelkunde",
+    "date": "2026 Sep 08",
+    "focus": [
+      "implant",
+      "workflow"
+    ],
+    "evidence": "internal",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Over the past decade, the technical physician has become an important member of the orthognathic and maxillofacial surgery team.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42713848",
+    "doi": "10.5177/ntvt.2026.09.26003",
+    "links": [
+      [
+        "PMID 42713848",
+        "https://pubmed.ncbi.nlm.nih.gov/42713848/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.5177/ntvt.2026.09.26003"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-09-10T00:16:52Z",
+    "screening_score": 15
+  },
+  {
+    "title": "Whole-axis versus odontoid process CBCT radiomics for forensic sex estimation: a retrospective paired-ROI model-development study.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Tekin A, Deveci B, Tekin G, et al.",
+    "source": "International journal of legal medicine",
+    "date": "2026-09-09",
+    "focus": [
+      "workflow"
+    ],
+    "evidence": "external",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "The second cervical vertebra (C2, axis) is included in head-and-neck cone-beam computed tomography (CBCT) and may provide a target for forensic sex estimation.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42711468",
+    "doi": "10.1007/s00414-026-03999-4",
+    "links": [
+      [
+        "PMID 42711468",
+        "https://pubmed.ncbi.nlm.nih.gov/42711468/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1007/s00414-026-03999-4"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-09-10T00:16:52Z",
+    "screening_score": 13
+  },
+  {
     "title": "Artificial intelligence-based segmentation of mandibular canal on cone-beam computed tomography: a systematic review and meta-analysis.",
     "source_type": "automatically imported PubMed record",
     "authors": "Hassanein FEA, Sherif MA, Salah A, et al.",
