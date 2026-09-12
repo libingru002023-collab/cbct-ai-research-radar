@@ -1,5 +1,65 @@
 [
   {
+    "title": "A Hybrid Segmentation Method for Three-Dimensional Analysis of the Mandibular Condyle in Idiopathic Condylar Resorption.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Li X, Yu Y, Li S, et al.",
+    "source": "International dental journal",
+    "date": "2026-09-10",
+    "focus": [
+      "workflow"
+    ],
+    "evidence": "internal",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Accurate extraction of condylar morphology underpins the diagnosis of idiopathic condylar resorption (ICR), yet cone beam computed tomography (CBCT) segmentation is difficult in ICR because subchondral demineralization blurs the bony margin.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42721691",
+    "doi": "10.1016/j.identj.2026.111140",
+    "links": [
+      [
+        "PMID 42721691",
+        "https://pubmed.ncbi.nlm.nih.gov/42721691/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1016/j.identj.2026.111140"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-09-12T00:20:34Z",
+    "screening_score": 14
+  },
+  {
+    "title": "Detection of the presence of second mesiobuccal canal in the maxillary first molar with bitewing radiography using MediXpar.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Celik Ozsoy S, Tavmasat Mercantas E, Kaya EC, et al.",
+    "source": "Morphologie : bulletin de l'Association des anatomistes",
+    "date": "2026-09-10",
+    "focus": [
+      "workflow"
+    ],
+    "evidence": "internal",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "The second mesiobuccal canal (MB2) variation, which is frequently found especially in maxillary first molars, is a significant cause of complications.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42721948",
+    "doi": "10.1016/j.morpho.2026.101146",
+    "links": [
+      [
+        "PMID 42721948",
+        "https://pubmed.ncbi.nlm.nih.gov/42721948/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1016/j.morpho.2026.101146"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-09-12T00:20:34Z",
+    "screening_score": 9
+  },
+  {
     "title": "Beyond Prevalence: An Exploratory Framework for Patient Phenotyping and Clinical Burden Analysis of Incidental Findings in Dental Cone-Beam Computed Tomography.",
     "source_type": "automatically imported PubMed record",
     "authors": "Mecham AR, Newman M, Peterson T, et al.",
