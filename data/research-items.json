@@ -1,5 +1,68 @@
 [
   {
+    "title": "CRANIOSEG: Deep Learning-Based Automated Segmentation of Craniomaxillofacial Anatomical Structures on Cone-Beam Computed Tomography.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Bayrakdar İŞ, Kuran A, Uğurlu M, et al.",
+    "source": "Dento maxillo facial radiology",
+    "date": "2026-09-15",
+    "focus": [
+      "ianc",
+      "implant",
+      "tool",
+      "workflow"
+    ],
+    "evidence": "resource",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "To develop and evaluate an nnU-Net v2-based deep-learning model for fully automated multiclass segmentation of 27 craniomaxillofacial anatomical structures on cone-beam computed tomography (CBCT).",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'direct_ianc_implant'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42745446",
+    "doi": "10.1093/dmfr/twag065",
+    "links": [
+      [
+        "PMID 42745446",
+        "https://pubmed.ncbi.nlm.nih.gov/42745446/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1093/dmfr/twag065"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-09-17T00:34:41Z",
+    "screening_score": 22
+  },
+  {
+    "title": "NHPVS: a nodule-aware deep learning method for high-abundance pulmonary vessel segmentation on chest CT.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Zhao R, Luo S, Zhao L, et al.",
+    "source": "Physics in medicine and biology",
+    "date": "2026-09-15",
+    "focus": [
+      "transfer"
+    ],
+    "evidence": "external",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Deep learning-based segmentation of pulmonary vessels is challenged by vessel-nodule confusion and insufficient detection of small vessels.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'transfer_tubular_structures'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42743993",
+    "doi": "10.1088/1361-6560/aea7f2",
+    "links": [
+      [
+        "PMID 42743993",
+        "https://pubmed.ncbi.nlm.nih.gov/42743993/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1088/1361-6560/aea7f2"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-09-17T00:34:43Z",
+    "screening_score": 10
+  },
+  {
     "title": "A Hybrid Segmentation Method for Three-Dimensional Analysis of the Mandibular Condyle in Idiopathic Condylar Resorption.",
     "source_type": "automatically imported PubMed record",
     "authors": "Li X, Yu Y, Li S, et al.",
