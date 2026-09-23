@@ -1,5 +1,67 @@
 [
   {
+    "title": "Artificial intelligence in radiographic quantification and severity assessment of peri-implant marginal bone loss: A systematic review.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Khanzadeh H, Azizigermi S, Mokhlesi A, et al.",
+    "source": "Journal of prosthodontics : official journal of the American College of Prosthodontists",
+    "date": "2026-09-22",
+    "focus": [
+      "implant",
+      "tool",
+      "workflow"
+    ],
+    "evidence": "external",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "To critically assess artificial intelligence (AI)-based radiographic models for quantitative measurement, localization/detection, segmentation/keypoints, diagnostic classification, and severity or morphology assessment of peri-implant marginal bone loss (MBL) and peri-implantitis-related bone defects.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42768950",
+    "doi": "10.1111/jopr.70245",
+    "links": [
+      [
+        "PMID 42768950",
+        "https://pubmed.ncbi.nlm.nih.gov/42768950/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1111/jopr.70245"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-09-23T00:37:24Z",
+    "screening_score": 17
+  },
+  {
+    "title": "Optimizing dental resins radiopacity and surface properties via barium sulphate concentration and printing orientation.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Ibrahim YM, Ibrahim NI, Soliman IS",
+    "source": "Journal of dentistry",
+    "date": "2026-09-21",
+    "focus": [
+      "workflow"
+    ],
+    "evidence": "internal",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "This study investigated 3D-printed models incorporated with silanized barium sulphate (BaSO₄) particles at varying concentrations, focusing on their radiopacity, surface roughness, and microhardness across different printing orientations.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42767588",
+    "doi": "10.1016/j.jdent.2026.107059",
+    "links": [
+      [
+        "PMID 42767588",
+        "https://pubmed.ncbi.nlm.nih.gov/42767588/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1016/j.jdent.2026.107059"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-09-23T00:37:24Z",
+    "screening_score": 11
+  },
+  {
     "title": "Artificial intelligence for upper-airway segmentation, adenoid-hypertrophy assessment, and sinonasal image analysis in orthodontic and craniofacial imaging: A systematic review and meta-analysis.",
     "source_type": "automatically imported PubMed record",
     "authors": "Guimarães HHDSD, Matos KN",
