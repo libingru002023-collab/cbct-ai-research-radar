@@ -1,5 +1,36 @@
 [
   {
+    "title": "Three-dimensional U-Net-based segmentation of the maxillary incisive canal on cone-beam computed tomography.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Huang CI, Xia X, Chen W, et al.",
+    "source": "American journal of orthodontics and dentofacial orthopedics : official publication of the American Association of Orthodontists, its constituent societies, and the American Board of Orthodontics",
+    "date": "2026-09-23",
+    "focus": [
+      "tool",
+      "workflow"
+    ],
+    "evidence": "resource",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "The objective of this study was to evaluate a 3-dimensional (3D) U-Net-based framework for the automated segmentation of the maxillary incisive canal on cone-beam computed tomography (CBCT) images.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42776091",
+    "doi": "10.1016/j.ajodo.2026.07.017",
+    "links": [
+      [
+        "PMID 42776091",
+        "https://pubmed.ncbi.nlm.nih.gov/42776091/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1016/j.ajodo.2026.07.017"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-09-24T00:31:48Z",
+    "screening_score": 11
+  },
+  {
     "title": "Artificial intelligence in radiographic quantification and severity assessment of peri-implant marginal bone loss: A systematic review.",
     "source_type": "automatically imported PubMed record",
     "authors": "Khanzadeh H, Azizigermi S, Mokhlesi A, et al.",
