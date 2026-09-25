@@ -1,5 +1,35 @@
 [
   {
+    "title": "Preliminary study on precise three-dimensional modeling of teeth and sockets from cone-beam computed tomography images.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Horio S, Suzuki H, Okuma R, et al.",
+    "source": "Journal of oral science",
+    "date": "2026-09-18",
+    "focus": [
+      "workflow"
+    ],
+    "evidence": "internal",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "As a preliminary study for the precise three-dimensional (3D) modeling of teeth and alveolar sockets from cone-beam computed tomography (CBCT) images, the validity of the concept that a single voxel can simultaneously belong to two adjacent teeth was verified.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42778410",
+    "doi": "10.2334/josnusd.26-0084",
+    "links": [
+      [
+        "PMID 42778410",
+        "https://pubmed.ncbi.nlm.nih.gov/42778410/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.2334/josnusd.26-0084"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-09-25T00:34:35Z",
+    "screening_score": 11
+  },
+  {
     "title": "Three-dimensional U-Net-based segmentation of the maxillary incisive canal on cone-beam computed tomography.",
     "source_type": "automatically imported PubMed record",
     "authors": "Huang CI, Xia X, Chen W, et al.",
