@@ -1,5 +1,36 @@
 [
   {
+    "title": "Deep learning-driven analysis of osteotomy gap healing following mandibular bilateral sagittal split osteotomy.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Alfertshofer M, Odaka K, Bigus S, et al.",
+    "source": "Journal of cranio-maxillo-facial surgery : official publication of the European Association for Cranio-Maxillo-Facial Surgery",
+    "date": "2026-09-25",
+    "focus": [
+      "tool",
+      "workflow"
+    ],
+    "evidence": "resource",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Bone healing across the osteotomy gap after bilateral sagittal split osteotomy (BSSO) determines whether osteosynthesis material can be safely removed, but is traditionally assessed by subjective visual inspection of cone-beam computed tomography (CBCT) images.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42790304",
+    "doi": "10.1016/j.jcms.2026.109887",
+    "links": [
+      [
+        "PMID 42790304",
+        "https://pubmed.ncbi.nlm.nih.gov/42790304/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1016/j.jcms.2026.109887"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-09-27T00:39:34Z",
+    "screening_score": 9
+  },
+  {
     "title": "Preliminary study on precise three-dimensional modeling of teeth and sockets from cone-beam computed tomography images.",
     "source_type": "automatically imported PubMed record",
     "authors": "Horio S, Suzuki H, Okuma R, et al.",
