@@ -1,5 +1,35 @@
 [
   {
+    "title": "Association between pterygomaxillary separation during surgically assisted rapid maxillary expansion and three-dimensional morphological and morphometric changes of the mandibular condyle: a cone-beam computed tomography study.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Halat İB, Gümrükçü Z, Köse TE",
+    "source": "Clinical oral investigations",
+    "date": "2026-09-28",
+    "focus": [
+      "workflow"
+    ],
+    "evidence": "internal",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "This study aimed to evaluate the association between pterygomaxillary separation (PMS) performed during surgically assisted rapid maxillary expansion (SARME) and three-dimensional morphological and morphometric changes of the mandibular condyle using cone-beam computed tomography (CBCT).",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42803843",
+    "doi": "10.1007/s00784-026-07162-6",
+    "links": [
+      [
+        "PMID 42803843",
+        "https://pubmed.ncbi.nlm.nih.gov/42803843/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1007/s00784-026-07162-6"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-09-29T02:00:36Z",
+    "screening_score": 9
+  },
+  {
     "title": "Deep learning-driven analysis of osteotomy gap healing following mandibular bilateral sagittal split osteotomy.",
     "source_type": "automatically imported PubMed record",
     "authors": "Alfertshofer M, Odaka K, Bigus S, et al.",
