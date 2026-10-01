@@ -1,5 +1,254 @@
 [
   {
+    "title": "AI-based 3D Measurement of Root Canal Curvature from CBCT: Validation of an Automated Schneider Angle Analysis.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Çakmak YE, Erkal D, Er K, et al.",
+    "source": "Journal of endodontics",
+    "date": "2026-06-26",
+    "focus": [
+      "workflow"
+    ],
+    "evidence": "external",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Conventional two-dimensional curvature assessment methods are insufficient to capture the complex three-dimensional (3D) geometry of root canals.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42362143",
+    "doi": "10.1016/j.joen.2026.06.007",
+    "links": [
+      [
+        "PMID 42362143",
+        "https://pubmed.ncbi.nlm.nih.gov/42362143/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1016/j.joen.2026.06.007"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-10-01T01:18:39Z",
+    "screening_score": 18
+  },
+  {
+    "title": "A sample application designed for detection of teeth and jaw bone from cone-beam computed tomography images using deep learning methods.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Salman OKM, Aksoy B, Turker N",
+    "source": "Oral radiology",
+    "date": "2026-06-26",
+    "focus": [
+      "tool",
+      "workflow"
+    ],
+    "evidence": "external",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Cone Beam Computed Tomography (CBCT) provides detailed anatomical information for treatment planning in dentistry.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42360668",
+    "doi": "10.1007/s11282-026-00946-2",
+    "links": [
+      [
+        "PMID 42360668",
+        "https://pubmed.ncbi.nlm.nih.gov/42360668/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1007/s11282-026-00946-2"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-10-01T01:18:39Z",
+    "screening_score": 18
+  },
+  {
+    "title": "Assessment of pre-trained deep learning models in the detection of metal artifacts in axial cone-beam tomography slices.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Shetty S, Talaat W, Al-Rawi N, et al.",
+    "source": "Dento maxillo facial radiology",
+    "date": "2026 Oct 01",
+    "focus": [
+      "implant",
+      "tool",
+      "workflow"
+    ],
+    "evidence": "external",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "This study aimed to evaluate the performance of 3 pre-trained deep learning models (ResNet50, MobileNetV2, and EfficientNetB0) in the detection of metal artifacts (MAs) in axial cone-beam CT (CBCT) slices.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42190112",
+    "doi": "10.1093/dmfr/twag037",
+    "links": [
+      [
+        "PMID 42190112",
+        "https://pubmed.ncbi.nlm.nih.gov/42190112/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1093/dmfr/twag037"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-10-01T01:18:39Z",
+    "screening_score": 17
+  },
+  {
+    "title": "SinusNet+: deep condition-label-free segmentation of maxillary sinus conditions in cone-beam CT images.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Kim DE, Yang S, Han JY, et al.",
+    "source": "Dento maxillo facial radiology",
+    "date": "2026 Oct 01",
+    "focus": [
+      "implant",
+      "tool",
+      "workflow"
+    ],
+    "evidence": "resource",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Segmentation of maxillary sinus conditions (MSC) in cone-beam CT (CBCT) images may support preoperative assessment in the posterior maxilla, including implant planning and sinus floor augmentation.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42275161",
+    "doi": "10.1093/dmfr/twag040",
+    "links": [
+      [
+        "PMID 42275161",
+        "https://pubmed.ncbi.nlm.nih.gov/42275161/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1093/dmfr/twag040"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-10-01T01:18:39Z",
+    "screening_score": 14
+  },
+  {
+    "title": "Deep Learning-Based Pelvic Vessel Auto-Segmentation for Standardized Lymph Node Delineation in Prostate Cancer Radiotherapy.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Gao Y, Wells D, Bhattacharya S, et al.",
+    "source": "Practical radiation oncology",
+    "date": "2026-09-29",
+    "focus": [
+      "tool",
+      "transfer",
+      "workflow"
+    ],
+    "evidence": "external",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Background Accurate delineation of lymph node clinical target volumes (CTVs) is essential for effective and safe prostate cancer radiotherapy, yet inter-physician variability in pelvic nodal contouring remains high.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'transfer_tubular_structures'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42810617",
+    "doi": "10.1016/j.prro.2026.09.009",
+    "links": [
+      [
+        "PMID 42810617",
+        "https://pubmed.ncbi.nlm.nih.gov/42810617/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1016/j.prro.2026.09.009"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-10-01T01:18:40Z",
+    "screening_score": 11
+  },
+  {
+    "title": "Can Deep Learning Methods Differentiate Temporomandibular Joint Disorders From Healthy Joints? A 3D Artificial Intelligence Algorithm Study Based on CBCT Images.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Bayrakdar İŞ, Kurt-Bayrakdar S, Kuran A, et al.",
+    "source": "Journal of oral rehabilitation",
+    "date": "2026-06-29",
+    "focus": [
+      "tool",
+      "workflow"
+    ],
+    "evidence": "resource",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Given the high difficulty of interpreting complex bone-related temporomandibular joint disorders (TMD) on CBCT scans, developing advanced artificial intelligence models has become essential for accurate diagnosis and detailed subcategorization.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42367059",
+    "doi": "10.1111/joor.70247",
+    "links": [
+      [
+        "PMID 42367059",
+        "https://pubmed.ncbi.nlm.nih.gov/42367059/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1111/joor.70247"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-10-01T01:18:39Z",
+    "screening_score": 11
+  },
+  {
+    "title": "Artificial intelligence for reducing metal artifacts in dental CBCT images: a systematic review.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Soltani P, Iranmanesh P, Ebrahimzadeh F, et al.",
+    "source": "Dento maxillo facial radiology",
+    "date": "2026 Oct 01",
+    "focus": [
+      "tool",
+      "workflow"
+    ],
+    "evidence": "resource",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "The presence of metallic restorations introduces severe artifacts that compromise the diagnostic accuracy of cone beam computed tomography (CBCT) images.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42203681",
+    "doi": "10.1093/dmfr/twag034",
+    "links": [
+      [
+        "PMID 42203681",
+        "https://pubmed.ncbi.nlm.nih.gov/42203681/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1093/dmfr/twag034"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-10-01T01:18:39Z",
+    "screening_score": 10
+  },
+  {
+    "title": "Feasibility and Validity of a Standardized Protocol for Measuring Thoracic Aortic Aneurysm Morphology.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "van Tongeren OLRM, Sharman A, Rastogi V, et al.",
+    "source": "Journal of endovascular therapy : an official journal of the International Society of Endovascular Specialists",
+    "date": "2025-10-05",
+    "focus": [
+      "transfer"
+    ],
+    "evidence": "external",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Thoracic endovascular aortic repair (TEVAR) is the predominant treatment for thoracic aortic aneurysms (TAA) due to its superior perioperative outcomes.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'transfer_tubular_structures'. Relevance and evidence level need manual confirmation.",
+    "pmid": "41047503",
+    "doi": "10.1177/15266028251380535",
+    "links": [
+      [
+        "PMID 41047503",
+        "https://pubmed.ncbi.nlm.nih.gov/41047503/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1177/15266028251380535"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-10-01T01:18:40Z",
+    "screening_score": 10
+  },
+  {
     "title": "Association between pterygomaxillary separation during surgically assisted rapid maxillary expansion and three-dimensional morphological and morphometric changes of the mandibular condyle: a cone-beam computed tomography study.",
     "source_type": "automatically imported PubMed record",
     "authors": "Halat İB, Gümrükçü Z, Köse TE",
