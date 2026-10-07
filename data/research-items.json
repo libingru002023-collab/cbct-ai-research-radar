@@ -1,5 +1,35 @@
 [
   {
+    "title": "Evaluation of periodontal ligament area of maxillary central incisors by a cone-beam computed tomography-periodontal ligament automatic segmentation network during orthodontic treatment.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Zhan LP, Su S, Li RQ, et al.",
+    "source": "American journal of orthodontics and dentofacial orthopedics : official publication of the American Association of Orthodontists, its constituent societies, and the American Board of Orthodontics",
+    "date": "2026-07-24",
+    "focus": [
+      "workflow"
+    ],
+    "evidence": "internal",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "The objective of this study was to evaluate the periodontal support tissues of maxillary central incisors before and after orthodontic treatment by measuring the periodontal ligament area (PDLA) using a cone-beam computed tomography (CBCT)-periodontal ligament (PDL) automatic segmentation network.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42501038",
+    "doi": "10.1016/j.ajodo.2026.04.013",
+    "links": [
+      [
+        "PMID 42501038",
+        "https://pubmed.ncbi.nlm.nih.gov/42501038/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1016/j.ajodo.2026.04.013"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-10-07T01:35:16Z",
+    "screening_score": 9
+  },
+  {
     "title": "AI-based 3D Measurement of Root Canal Curvature from CBCT: Validation of an Automated Schneider Angle Analysis.",
     "source_type": "automatically imported PubMed record",
     "authors": "Çakmak YE, Erkal D, Er K, et al.",
