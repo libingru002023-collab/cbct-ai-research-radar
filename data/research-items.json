@@ -1,5 +1,37 @@
 [
   {
+    "title": "A Volumetric Anatomy-Aware, Prompt-Guided Adaptation Framework for the Segment Anything Model in Head and Neck Radiotherapy.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Xia Y, Jabor S, New P, et al.",
+    "source": "Cureus",
+    "date": "2026-10-06",
+    "focus": [
+      "tool",
+      "transfer",
+      "workflow"
+    ],
+    "evidence": "resource",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Background Head and neck (H&N) radiotherapy planning requires accurate segmentation of numerous organs at risk (OARs), yet many critical structures, such as the optic nerves, chiasm, and cochleae, are small, poorly contrasted on CT, and prone to high inter-observer variability in manual contouring.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'transfer_tubular_structures'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42845693",
+    "doi": "10.7759/cureus.117550",
+    "links": [
+      [
+        "PMID 42845693",
+        "https://pubmed.ncbi.nlm.nih.gov/42845693/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.7759/cureus.117550"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-10-09T02:13:00Z",
+    "screening_score": 9
+  },
+  {
     "title": "Evaluation of periodontal ligament area of maxillary central incisors by a cone-beam computed tomography-periodontal ligament automatic segmentation network during orthodontic treatment.",
     "source_type": "automatically imported PubMed record",
     "authors": "Zhan LP, Su S, Li RQ, et al.",
