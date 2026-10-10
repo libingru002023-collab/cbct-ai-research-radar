@@ -1,5 +1,65 @@
 [
   {
+    "title": "Artificial intelligence in orthodontics: clinical maturity, evidence gaps, and emerging applications-a narrative review.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Chandio K, Iftikhar L, Shehzad A, et al.",
+    "source": "The Saudi dental journal",
+    "date": "2026-10-09",
+    "focus": [
+      "workflow"
+    ],
+    "evidence": "external",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Artificial intelligence (AI) is rapidly transforming orthodontics by enhancing diagnostic accuracy, supporting clinical decision-making, and facilitating digital workflows.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42853348",
+    "doi": "10.1007/s44445-026-00249-6",
+    "links": [
+      [
+        "PMID 42853348",
+        "https://pubmed.ncbi.nlm.nih.gov/42853348/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1007/s44445-026-00249-6"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-10-10T01:45:59Z",
+    "screening_score": 16
+  },
+  {
+    "title": "A Deep Learning-Based Method for Automatic Registration of Craniofacial CBCT and Multi-planar Temporomandibular Joint MRI.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Pan Y, Yang L, Cui Z, et al.",
+    "source": "Journal of dentistry",
+    "date": "2026-10-08",
+    "focus": [
+      "workflow"
+    ],
+    "evidence": "internal",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "To develop a fully automated multi-stage registration framework for temporomandibular joint (TMJ) imaging that enables spatial alignment between large-field-of-view cone-beam computed tomography (CBCT) and multi-planar small-field-of-view magnetic resonance imaging (MRI).",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42849776",
+    "doi": "10.1016/j.jdent.2026.107096",
+    "links": [
+      [
+        "PMID 42849776",
+        "https://pubmed.ncbi.nlm.nih.gov/42849776/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1016/j.jdent.2026.107096"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-10-10T01:45:59Z",
+    "screening_score": 9
+  },
+  {
     "title": "A Volumetric Anatomy-Aware, Prompt-Guided Adaptation Framework for the Segment Anything Model in Head and Neck Radiotherapy.",
     "source_type": "automatically imported PubMed record",
     "authors": "Xia Y, Jabor S, New P, et al.",
