@@ -1,5 +1,35 @@
 [
   {
+    "title": "Association between bacterial load and volumetric bone loss in teeth with persistent apical periodontitis: A cone-beam computed tomography segmentation-based observational study.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Solana C, Baca A, Pérez-Carrasco V, et al.",
+    "source": "International endodontic journal",
+    "date": "2026-10-12",
+    "focus": [
+      "workflow"
+    ],
+    "evidence": "internal",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "To quantitatively compare the bacterial DNA load in root apices and periapical lesions surgically retrieved from teeth with failed root canal treatment, and to investigate the association between bacterial DNA load in both anatomical locations and the three-dimensional (3D) volumetric extent of periapical bone loss, as",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42861570",
+    "doi": "10.1111/iej.70293",
+    "links": [
+      [
+        "PMID 42861570",
+        "https://pubmed.ncbi.nlm.nih.gov/42861570/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1111/iej.70293"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-10-13T03:03:43Z",
+    "screening_score": 11
+  },
+  {
     "title": "Artificial intelligence in orthodontics: clinical maturity, evidence gaps, and emerging applications-a narrative review.",
     "source_type": "automatically imported PubMed record",
     "authors": "Chandio K, Iftikhar L, Shehzad A, et al.",
