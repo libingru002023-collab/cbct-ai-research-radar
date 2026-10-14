@@ -1,5 +1,35 @@
 [
   {
+    "title": "Multicenter Evaluation of a Deep Learning Model for Automatic Contouring of Cardiac Substructures in Adults.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Moignier A, Licha A, Felici F, et al.",
+    "source": "Practical radiation oncology",
+    "date": "2026-10-12",
+    "focus": [
+      "transfer"
+    ],
+    "evidence": "external",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Efficient delineation of cardiac substructures is essential for assessing radiation-induced cardiac toxicity in thoracic radiotherapy.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'transfer_tubular_structures'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42863810",
+    "doi": "10.1016/j.prro.2026.10.002",
+    "links": [
+      [
+        "PMID 42863810",
+        "https://pubmed.ncbi.nlm.nih.gov/42863810/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1016/j.prro.2026.10.002"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-10-14T01:14:56Z",
+    "screening_score": 8
+  },
+  {
     "title": "Association between bacterial load and volumetric bone loss in teeth with persistent apical periodontitis: A cone-beam computed tomography segmentation-based observational study.",
     "source_type": "automatically imported PubMed record",
     "authors": "Solana C, Baca A, Pérez-Carrasco V, et al.",
