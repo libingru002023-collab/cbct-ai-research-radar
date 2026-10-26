@@ -1,5 +1,36 @@
 [
   {
+    "title": "Cone-beam computed tomography radiomics for differentiating clinicoradiologic labels of osteosclerosis, cemento-osseous dysplasia and odontoma: an internal model-development study.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Tekin A, Özcan BA, Erdoğan B, et al.",
+    "source": "Dento maxillo facial radiology",
+    "date": "2026-10-24",
+    "focus": [
+      "tool",
+      "workflow"
+    ],
+    "evidence": "external",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "To develop and internally validate cone-beam computed tomography radiomics for recorded clinicoradiologic classification of osteosclerosis, cemento-osseous dysplasia and odontoma, with secondary same-case three-dimensional convolutional neural-network benchmarking.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42921750",
+    "doi": "10.1093/dmfr/twag067",
+    "links": [
+      [
+        "PMID 42921750",
+        "https://pubmed.ncbi.nlm.nih.gov/42921750/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1093/dmfr/twag067"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-10-26T00:24:48Z",
+    "screening_score": 11
+  },
+  {
     "title": "Artificial intelligence in acute stroke imaging: A comprehensive survey from imaging assessment to outcome prediction.",
     "source_type": "automatically imported PubMed record",
     "authors": "Sun L, Manshor N, Muda AS, et al.",
