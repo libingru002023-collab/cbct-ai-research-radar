@@ -1,5 +1,65 @@
 [
   {
+    "title": "Three-Dimensional Segmentation of Dens Invaginatus: A Case Series Exploring the CARES Classification for Anatomy-Driven Clinical Decision-Making.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Torres-Carrillo AJS, Alcebiades GCG, Cruz-Filho AM, et al.",
+    "source": "International endodontic journal",
+    "date": "2026-10-28",
+    "focus": [
+      "workflow"
+    ],
+    "evidence": "pilot",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Dens invaginatus (DI) exhibits substantial 3-dimensional anatomical variability that may not be fully represented by conventional classification systems.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42949196",
+    "doi": "10.1111/iej.70301",
+    "links": [
+      [
+        "PMID 42949196",
+        "https://pubmed.ncbi.nlm.nih.gov/42949196/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1111/iej.70301"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-10-29T01:49:46Z",
+    "screening_score": 9
+  },
+  {
+    "title": "Digital Workflows in Orthodontic Education: A Structural Necessity, Not an Optional Enhancement.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Goycoolea B, Mandakovic D, Palomino H, et al.",
+    "source": "Journal of dental education",
+    "date": "2026-10-28",
+    "focus": [
+      "workflow"
+    ],
+    "evidence": "internal",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Cone-beam computed tomography and intraoral scanning have become routine in postgraduate orthodontic training, yet the curricula built around them have not kept pace with what that data makes possible.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42949548",
+    "doi": "10.1002/jdd.70428",
+    "links": [
+      [
+        "PMID 42949548",
+        "https://pubmed.ncbi.nlm.nih.gov/42949548/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1002/jdd.70428"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-10-29T01:49:46Z",
+    "screening_score": 8
+  },
+  {
     "title": "Multi-label classification of temporomandibular joint osteoarthritic changes on CBCT: An anatomically guided artificial intelligence framework.",
     "source_type": "automatically imported PubMed record",
     "authors": "Trivedi S, Sojitra VY, Shabazi A, et al.",
