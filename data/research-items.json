@@ -1,5 +1,35 @@
 [
   {
+    "title": "Comparison of bone augmentation techniques in the mandibular posterior region: A randomized clinical trial protocol.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Lanata-Flores A, Armijos Briones M, Benítez Sellán P, et al.",
+    "source": "PloS one",
+    "date": "2026-10-29",
+    "focus": [
+      "workflow"
+    ],
+    "evidence": "internal",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "This randomized, statistician-blinded, parallel-group clinical trial will compare the effectiveness of three bone-augmentation techniques applied to the posterior mandible using the cortical shell approach.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42955939",
+    "doi": "10.1371/journal.pone.0337304",
+    "links": [
+      [
+        "PMID 42955939",
+        "https://pubmed.ncbi.nlm.nih.gov/42955939/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1371/journal.pone.0337304"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-10-30T01:58:48Z",
+    "screening_score": 12
+  },
+  {
     "title": "Three-Dimensional Segmentation of Dens Invaginatus: A Case Series Exploring the CARES Classification for Anatomy-Driven Clinical Decision-Making.",
     "source_type": "automatically imported PubMed record",
     "authors": "Torres-Carrillo AJS, Alcebiades GCG, Cruz-Filho AM, et al.",
