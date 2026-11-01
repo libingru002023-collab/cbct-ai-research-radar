@@ -1,5 +1,163 @@
 [
   {
+    "title": "Artificial Intelligence for Assessing the Relationship Between Mandibular Third Molars and the Inferior Alveolar Nerve on Panoramic Radiographs: A Systematic Review.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Elwy FK, Parra-Moreno J, González-Navarro B, et al.",
+    "source": "Medicina oral, patologia oral y cirugia bucal",
+    "date": "2026-11-01",
+    "focus": [
+      "ianc",
+      "implant",
+      "tool"
+    ],
+    "evidence": "external",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Extracting mandibular third molars is a common procedure that carries a risk of injury to the inferior alveolar nerve (IAN).",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'direct_ianc_implant'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42960901",
+    "doi": "10.4317/medoral.28284",
+    "links": [
+      [
+        "PMID 42960901",
+        "https://pubmed.ncbi.nlm.nih.gov/42960901/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.4317/medoral.28284"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-11-01T01:13:55Z",
+    "screening_score": 21
+  },
+  {
+    "title": "Dental cone beam computed tomography metal artifact reduction based on arbitrary plane metal segmentation.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Ye P, Lin X, Wang X, et al.",
+    "source": "Oral surgery, oral medicine, oral pathology and oral radiology",
+    "date": "2026-05-12",
+    "focus": [
+      "implant",
+      "workflow"
+    ],
+    "evidence": "internal",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "The presence of metallic implants results in severe streak artifacts in dental cone beam computed tomography (CBCT) images.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42476862",
+    "doi": "10.1016/j.oooo.2026.05.001",
+    "links": [
+      [
+        "PMID 42476862",
+        "https://pubmed.ncbi.nlm.nih.gov/42476862/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1016/j.oooo.2026.05.001"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-11-01T01:13:55Z",
+    "screening_score": 19
+  },
+  {
+    "title": "AI-assisted versus point-based registration for digital planning in CBCT images with metallic artifacts.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Shobair NI, Rahman ZHA, Tolba MAM, et al.",
+    "source": "BMC oral health",
+    "date": "2026-10-31",
+    "focus": [
+      "implant",
+      "tool",
+      "workflow"
+    ],
+    "evidence": "external",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Accurate registration between cone-beam computed tomography (CBCT) images and intraoral scans is fundamental to digital implant planning because registration errors may propagate throughout the digital workflow and affect the accuracy of computer-guided implant surgery.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42963565",
+    "doi": "10.1186/s12903-026-09990-0",
+    "links": [
+      [
+        "PMID 42963565",
+        "https://pubmed.ncbi.nlm.nih.gov/42963565/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1186/s12903-026-09990-0"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-11-01T01:13:55Z",
+    "screening_score": 17
+  },
+  {
+    "title": "Artificial intelligence prediction of implant placement difficulty based on bone morphology and anatomical constraints.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Ennala S, Srivastava G, Bonde AA, et al.",
+    "source": "Journal of oral biology and craniofacial research",
+    "date": "2026-10-05",
+    "focus": [
+      "implant",
+      "workflow"
+    ],
+    "evidence": "internal",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Accurate preoperative assessment of implant placement difficulty is essential for effective surgical planning and minimizing complications.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42890424",
+    "doi": "10.1016/j.jobcr.2026.101551",
+    "links": [
+      [
+        "PMID 42890424",
+        "https://pubmed.ncbi.nlm.nih.gov/42890424/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1016/j.jobcr.2026.101551"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-11-01T01:13:55Z",
+    "screening_score": 10
+  },
+  {
+    "title": "Ultrasound Microvascular Imaging Using Deep Knowledge Distillation.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Kim S, Park C, Cho Y, et al.",
+    "source": "Ultrasonic imaging",
+    "date": "2026-05-04",
+    "focus": [
+      "tool",
+      "transfer",
+      "workflow"
+    ],
+    "evidence": "resource",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Ultrafast Doppler imaging provides critical insights into tissue perfusion but traditionally requires long acquisitions and computationally expensive filtering, such as singular value decomposition (SVD).",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'transfer_tubular_structures'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42076995",
+    "doi": "10.1177/01617346261437268",
+    "links": [
+      [
+        "PMID 42076995",
+        "https://pubmed.ncbi.nlm.nih.gov/42076995/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1177/01617346261437268"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-11-01T01:13:56Z",
+    "screening_score": 9
+  },
+  {
     "title": "Quantitative and qualitative assessment of the mandibular symphysis as an intraoral autogenous bone graft donor site: a cone beam computed tomography study.",
     "source_type": "automatically imported PubMed record",
     "authors": "Pahlavanzadeh P, Jalalian F, Farkhani N",
