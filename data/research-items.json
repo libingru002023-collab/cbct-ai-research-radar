@@ -1,5 +1,35 @@
 [
   {
+    "title": "Joint segmentation of pancreatic tumors and peripancreatic vessels via a clinical risk-aware uncertainty alignment framework.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Fu W, Zhu H, Chen T, et al.",
+    "source": "Medical image analysis",
+    "date": "2026-10-26",
+    "focus": [
+      "transfer"
+    ],
+    "evidence": "external",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Preoperative assessment of pancreatic cancer resectability critically relies on accurate joint segmentation of tumors and peripancreatic vessels from contrast-enhanced CT.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'transfer_tubular_structures'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42966317",
+    "doi": "10.1016/j.media.2026.104378",
+    "links": [
+      [
+        "PMID 42966317",
+        "https://pubmed.ncbi.nlm.nih.gov/42966317/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1016/j.media.2026.104378"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-11-02T01:31:35Z",
+    "screening_score": 8
+  },
+  {
     "title": "Artificial Intelligence for Assessing the Relationship Between Mandibular Third Molars and the Inferior Alveolar Nerve on Panoramic Radiographs: A Systematic Review.",
     "source_type": "automatically imported PubMed record",
     "authors": "Elwy FK, Parra-Moreno J, González-Navarro B, et al.",
