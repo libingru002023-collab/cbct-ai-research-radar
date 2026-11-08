@@ -1,5 +1,36 @@
 [
   {
+    "title": "A Systematic Review of Bias, Validation, and Explainability in Artificial Intelligence Algorithms for Dental Diagnostics.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Alrayes A, Kollias D, Baysan A",
+    "source": "Journal of dentistry",
+    "date": "2026-11-06",
+    "focus": [
+      "implant",
+      "workflow"
+    ],
+    "evidence": "external",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "To critically evaluate the current role of artificial intelligence (AI) in dental diagnosis across multiple dental disciplines, assessing diagnostic performance, methodological quality, risk of bias, validation, explainability, and clinical applicability.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42994554",
+    "doi": "10.1016/j.jdent.2026.107151",
+    "links": [
+      [
+        "PMID 42994554",
+        "https://pubmed.ncbi.nlm.nih.gov/42994554/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1016/j.jdent.2026.107151"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-11-08T01:27:47Z",
+    "screening_score": 9
+  },
+  {
     "title": "Joint segmentation of pancreatic tumors and peripancreatic vessels via a clinical risk-aware uncertainty alignment framework.",
     "source_type": "automatically imported PubMed record",
     "authors": "Fu W, Zhu H, Chen T, et al.",
