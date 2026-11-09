@@ -1,5 +1,35 @@
 [
   {
+    "title": "Active Learning and Cascaded nnU-Net v2 for Multi-structure Segmentation of Thoracic CT: A Single-Center Pilot Study.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Ham S, Hwang I, Kim C, et al.",
+    "source": "Journal of imaging informatics in medicine",
+    "date": "2026-11-06",
+    "focus": [
+      "transfer"
+    ],
+    "evidence": "external",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Accurate segmentation of thoracic structures on chest computed tomography (CT) is important for lung cancer surgery, but manual annotation is labor intensive and particularly challenging for small structures such as pulmonary vessels and nodules.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'transfer_tubular_structures'. Relevance and evidence level need manual confirmation.",
+    "pmid": "42995371",
+    "doi": "10.1007/s10278-026-02321-3",
+    "links": [
+      [
+        "PMID 42995371",
+        "https://pubmed.ncbi.nlm.nih.gov/42995371/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1007/s10278-026-02321-3"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-11-09T01:44:46Z",
+    "screening_score": 8
+  },
+  {
     "title": "A Systematic Review of Bias, Validation, and Explainability in Artificial Intelligence Algorithms for Dental Diagnostics.",
     "source_type": "automatically imported PubMed record",
     "authors": "Alrayes A, Kollias D, Baysan A",
