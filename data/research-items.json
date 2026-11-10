@@ -1,5 +1,36 @@
 [
   {
+    "title": "Creation of a semi-adjustable virtual articulator by integrating intraoral, facial, and cone-beam computed tomography scans in freeware software: A proof of concept.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Ruggiero G, Nuytens P, Grande F, et al.",
+    "source": "Journal of prosthodontic research",
+    "date": "2026-04-07",
+    "focus": [
+      "tool",
+      "workflow"
+    ],
+    "evidence": "resource",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Open-source environments offer interesting opportunities to democratize digital workflows in dentistry, thereby reducing dependency on costly proprietary systems.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "41951393",
+    "doi": "10.2186/jpr.JPR_D_25_00262",
+    "links": [
+      [
+        "PMID 41951393",
+        "https://pubmed.ncbi.nlm.nih.gov/41951393/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.2186/jpr.JPR_D_25_00262"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-11-10T04:08:33Z",
+    "screening_score": 12
+  },
+  {
     "title": "Active Learning and Cascaded nnU-Net v2 for Multi-structure Segmentation of Thoracic CT: A Single-Center Pilot Study.",
     "source_type": "automatically imported PubMed record",
     "authors": "Ham S, Hwang I, Kim C, et al.",
