@@ -1,5 +1,37 @@
 [
   {
+    "title": "A Registration-Free and Slope-aware Framework for CBCT-based Dental Implant Planning.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Yang X, Ren J, Li X, et al.",
+    "source": "IEEE transactions on medical imaging",
+    "date": "2026-11-17",
+    "focus": [
+      "implant",
+      "tool",
+      "workflow"
+    ],
+    "evidence": "resource",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Precise planning of dental implant placement is crucial for oral rehabilitation, yet current AI-based automated methods heavily rely on accurately annotated data.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "43043731",
+    "doi": "10.1109/TMI.2026.3755031",
+    "links": [
+      [
+        "PMID 43043731",
+        "https://pubmed.ncbi.nlm.nih.gov/43043731/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1109/TMI.2026.3755031"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-11-18T03:43:21Z",
+    "screening_score": 10
+  },
+  {
     "title": "Three-dimensional evaluation of maxillary sinus volume and nasal septal deviation after surgically assisted rapid maxillary expansion with and without pterygomaxillary disjunction.",
     "source_type": "automatically imported PubMed record",
     "authors": "Deniz B, Gümrükçü Z, Günaçar DN",
