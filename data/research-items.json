@@ -1,5 +1,35 @@
 [
   {
+    "title": "Assessing Condylar hyperplasia management outcomes using semi-automatic segmentation methods: A reliability study.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Horta KC, Kharidehal N, Fagundes NCF, et al.",
+    "source": "PloS one",
+    "date": "2026-11-18",
+    "focus": [
+      "workflow"
+    ],
+    "evidence": "internal",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "To assess the reliability of two condylar segmentation methods in patients with Unilateral Condylar Hyperplasia (UCH) treated with proportional condylectomy.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "43050458",
+    "doi": "10.1371/journal.pone.0363132",
+    "links": [
+      [
+        "PMID 43050458",
+        "https://pubmed.ncbi.nlm.nih.gov/43050458/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1371/journal.pone.0363132"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-11-19T03:33:05Z",
+    "screening_score": 9
+  },
+  {
     "title": "A Registration-Free and Slope-aware Framework for CBCT-based Dental Implant Planning.",
     "source_type": "automatically imported PubMed record",
     "authors": "Yang X, Ren J, Li X, et al.",
