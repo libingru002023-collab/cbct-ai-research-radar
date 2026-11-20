@@ -1,5 +1,65 @@
 [
   {
+    "title": "Automated whole-dentition CBCT phenotyping enables explainable sex classification and age estimation through distinct dental features.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Zhan XR, Yue HY, Guo YX, et al.",
+    "source": "International journal of legal medicine",
+    "date": "2026-11-19",
+    "focus": [
+      "workflow"
+    ],
+    "evidence": "external",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Tooth size and morphology are established primarily during development, whereas secondary dentin deposition and pulp-space remodeling continue throughout adulthood, providing biologically distinct information for sex and age estimation.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "43055952",
+    "doi": "10.1007/s00414-026-04078-4",
+    "links": [
+      [
+        "PMID 43055952",
+        "https://pubmed.ncbi.nlm.nih.gov/43055952/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1007/s00414-026-04078-4"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-11-20T03:22:22Z",
+    "screening_score": 13
+  },
+  {
+    "title": "Artificial intelligence for detecting C-shaped canals on dental radiographs: A systematic review and bayesian diagnostic accuracy meta-analysis.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Matos KN, Dos Santos Dantas Guimarães HH, Dos Santos Sobrinho PV, et al.",
+    "source": "International journal of medical informatics",
+    "date": "2026-11-16",
+    "focus": [
+      "workflow"
+    ],
+    "evidence": "external",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "To evaluate AI-based identification of C-shaped canals across dental radiographic modalities, with an exploratory synthesis of conventional panoramic detection using cone-beam computed tomography (CBCT) reference labels.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "43050770",
+    "doi": "10.1016/j.ijmedinf.2026.106815",
+    "links": [
+      [
+        "PMID 43050770",
+        "https://pubmed.ncbi.nlm.nih.gov/43050770/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1016/j.ijmedinf.2026.106815"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-11-20T03:22:22Z",
+    "screening_score": 12
+  },
+  {
     "title": "Assessing Condylar hyperplasia management outcomes using semi-automatic segmentation methods: A reliability study.",
     "source_type": "automatically imported PubMed record",
     "authors": "Horta KC, Kharidehal N, Fagundes NCF, et al.",
