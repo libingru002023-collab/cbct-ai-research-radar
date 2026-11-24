@@ -1,5 +1,35 @@
 [
   {
+    "title": "CBCT-based radiomics of the crista galli: association with an exploratory composite anatomical complexity framework in a preliminary study.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Uzun S, Cakan KN, Magat G",
+    "source": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
+    "date": "2026-11-22",
+    "focus": [
+      "workflow"
+    ],
+    "evidence": "pilot",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "To investigate the association between CBCT-based radiomic features of the crista galli (CG) and anterior skull base anatomical complexity using the exploratory Anatomical Complexity Score (ACS).",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'dental_cbct_ai_workflow'. Relevance and evidence level need manual confirmation.",
+    "pmid": "43069002",
+    "doi": "10.1007/s00405-026-10833-5",
+    "links": [
+      [
+        "PMID 43069002",
+        "https://pubmed.ncbi.nlm.nih.gov/43069002/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1007/s00405-026-10833-5"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-11-24T06:05:06Z",
+    "screening_score": 9
+  },
+  {
     "title": "Automated whole-dentition CBCT phenotyping enables explainable sex classification and age estimation through distinct dental features.",
     "source_type": "automatically imported PubMed record",
     "authors": "Zhan XR, Yue HY, Guo YX, et al.",
