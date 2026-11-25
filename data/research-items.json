@@ -1,5 +1,38 @@
 [
   {
+    "title": "Evaluation Design and Reported Accuracy of Deep Learning Mandibular Canal Segmentation: A Systematic Review and Meta-Analysis.",
+    "source_type": "automatically imported PubMed record",
+    "authors": "Yıldırım EB, Dalbah I",
+    "source": "Journal of imaging informatics in medicine",
+    "date": "2026-11-23",
+    "focus": [
+      "ianc",
+      "implant",
+      "tool",
+      "workflow"
+    ],
+    "evidence": "external",
+    "relevance": "Automatically imported because it matched the CBCT AI research radar search profile; manual screening is recommended before citing.",
+    "method": "Reported accuracy of deep learning mandibular canal segmentation varies widely, and studies differ in how it was evaluated.",
+    "metrics": "Metrics not parsed automatically. Open the source and extract DSC, HD95, ASSD, kappa, ICC, time, or safety-margin endpoints if reported.",
+    "limitation": "Imported by query 'direct_ianc_implant'. Relevance and evidence level need manual confirmation.",
+    "pmid": "43073639",
+    "doi": "10.1007/s10278-026-02554-2",
+    "links": [
+      [
+        "PMID 43073639",
+        "https://pubmed.ncbi.nlm.nih.gov/43073639/"
+      ],
+      [
+        "DOI",
+        "https://doi.org/10.1007/s10278-026-02554-2"
+      ]
+    ],
+    "added_by": "scripts/update_literature.py",
+    "added_at": "2026-11-25T04:54:07Z",
+    "screening_score": 24
+  },
+  {
     "title": "CBCT-based radiomics of the crista galli: association with an exploratory composite anatomical complexity framework in a preliminary study.",
     "source_type": "automatically imported PubMed record",
     "authors": "Uzun S, Cakan KN, Magat G",
